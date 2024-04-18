@@ -1,0 +1,813 @@
+﻿id;id_network;short_indicator;indicator;dimension;theme;sub_theme;Type_Impact;Type_Indicators;system_based_classification;System_Units;spatial_representation;Ideal;monitor;Pillar
+58;1;Economic growth ;Economic growth ;Economic Capital;Consumption and Income;Gross Domestic Product;Here and Now, Elsewhere;;System Condition;Monetary;;Growth;1_StaatVDS;Economic
+11;2;Income inequality;Income inequality;Economic Capital;Consumption and Income;Distribution-Income- Total;Here and now;;;;City;Equal opp;2_BWMRA;Economic
+6;3;Added value;Added value;Economic Capital;Consumption and Income;Gross Domestic Product;Here and Now, Elsewhere;;Value Creation ;Monetary;City;Growth;5_EVMRA;Economic
+5;4;GDP;GDP;Economic Capital;Consumption and Income;Gross Domestic Product;Here and Now, Elsewhere;;System Condition;Monetary;City;Growth;5_EVMRA;Economic
+31;5;Labor productivity;Labor productivity;Economic Capital;Consumption and Income;Productivity;Here and now, Later;;Value Creation ;Index;City;Growth;5_EVMRA;Economic
+;6;GDP Municipal;Gross Municipal Product;Economic Capital;Consumption and Income;Gross Domestic Product;Here and Now, Elsewhere;;;;;Growth;11_BBV;Economic
+;7;GDP growth - Amsterdam;Economic growth rate;Economic Capital;Consumption and Income;Gross Domestic Product;Here and Now, Elsewhere;;;;;Growth;10_DBoom;Economic
+52;8;development aid;development aid;Economic Capital;Consumption and Income;Official Development Assistance;Elsewhere;;Value Creation ;Monetary;;Growth;6_RMBW;Economic
+;9;GDP growth - Amsterdam;Economic growth rate;Economic Capital;Consumption and Income;Gross Domestic Product;Here and Now, Elsewhere;;;;;Growth;9_SDGs;Economic
+34;10;Household wealth;Median household wealth;Economic Capital;Consumption and Income;Distribution-Income- Total;Here and now;;System Condition;Monetary;;Equal opp;6_RMBW;Economic
+28;11;Consumer confidence;Consumer confidence;Economic Capital;Consumption and Income;Consumption;Here and now;;Value Creation ;Index;City;Growth;5_EVMRA;Economic
+35;12;Installed renewable electricity;Installed capacity renewable electricity;Economic Capital;Energy Resources;Renewable energy;Here and now, Later, Elsewhere;;Resource Flow;Electric current;;Sustainability;6_RMBW;Economic
+74;13;Dependence energy input;Dependence on energy input;Economic Capital;Energy Resources;Energy dependency;Here and now, Later, Elsewhere;;Resource Flow;;;Sustainability;6_RMBW;Economic
+42;14;Energy consumption;Energy consumption;Economic Capital;Energy Resources;Consumption;Here and now, Later;Strategic;Resource Flow;Electric current;City;Sustainability;5_EVMRA;Economic
+25;15;Energy consultations;Energy consultations;Economic Capital;Energy Resources;Renewable energy;Here and now;;System Condition;Population;City;Sustainability;7_Klimaat;Economic
+31;16;Share renewable energy;Share of renewable energy in total energy consumption;Economic Capital;Energy Resources;Renewable energy;Here and now, Later;Tactical;Value Creation ;Electric current;National;Sustainability;4_Stadsdonut;Economic
+11;17;New Construction-score;New construction-New;Economic Capital;Energy Resources;Intensity/Productivity;Here and now;;Value Creation ;Population;City;Sustainability;7_Klimaat;Economic
+18;18;Gas free housing;Hgas free housing;Economic Capital;Energy Resources;Renewable energy;Here and now, Later, Elsewhere;Tactical;Resource Flow;People;Neighborhood;Sustainability;4_Stadsdonut;Economic
+18;19;Wind energy gen.;Wind energy generation;Economic Capital;Energy Resources;Renewable energy;Here and now, Later, Elsewhere;;Value Creation ;Population;City;Sustainability;7_Klimaat;Economic
+24;20;Energy poverty;Energy poverty;Economic Capital;Energy Resources;Expenditures;Here and Now, Elsewhere;;Adverse Outcome;Monetary;Neighborhood;Sustainability;1_StaatVDS;Economic
+23;21;Attitude Amsterdammers;Building the movement in the city;Economic Capital;Energy Resources;Renewable energy;Here and now, Later;;Value Creation ;Population;City;Sustainability;7_Klimaat;Economic
+75;22;Economic dependence exports;Economic dependence on exports;Economic Capital;Energy Resources;Energy dependency;Elsewhere;;Resource Flow;Monetary;;Growth;6_RMBW;Economic
+17;23;Solar energy gen.;Solar energy generation;Economic Capital;Energy Resources;Renewable energy;Here and now, Later, Elsewhere;;Value Creation ;Population;City;Sustainability;7_Klimaat;Economic
+82;24;Budget external parties;Budget made available from external parties;Economic Capital;Financial Capital;Savings;Here and now, Later;;;;City;Growth;8_Duurzame;Economic
+81;25;Expenditure plan;Money planned to be spent;Economic Capital;Financial Capital;Expenditures;Here and now, Later;;;;City;Growth;8_Duurzame;Economic
+;26;Apparatus costs;Apparatus costs;Economic Capital;Financial Capital;Investments;Here and now, Later;;;;;Better admin;11_BBV;Economic
+83;27;Obstacles outsourcing budget;Obstacles in outsourcing the budget;Economic Capital;Financial Capital;Foreign direct investment;Here and now, Later;;;;City;Better admin;8_Duurzame;Economic
+;28;Disposable income;Disposable income;Economic Capital;Financial Capital;Expenditures;Here and now;;;;;Growth;9_SDGs;Economic
+;29;Occupancy;Occupancy;Economic Capital;Financial Capital;Investments;Here and now, Later;;;;;Better admin;11_BBV;Economic
+;30;External hires;External hires;Economic Capital;Financial Capital;Investments;Here and now, Later;;;;;Better admin;11_BBV;Economic
+;31;Overhead;Overhead;Economic Capital;Financial Capital;Investments;Here and now, Later;;;;;Better admin;11_BBV;Economic
+;32;Formation;Formation;Economic Capital;Financial Capital;Investments;Here and now, Later;;;;;Better admin;11_BBV;Economic
+80;33;Outsourced money;Outsourced money;Economic Capital;Financial Capital;Foreign direct investment;Here and now, Later;;;;City;Growth;8_Duurzame;Economic
+76;34;Government debt;Government debt;Economic Capital;Financial Capital;Government debt;Here and now, Later;;Adverse Outcome;Monetary;;Growth;6_RMBW;Economic
+33;35;Debt per household;Average debt per household;Economic Capital;Financial Capital;Net assets/liabilities;Here and now, Later;;Adverse Outcome;Monetary;;Equal opp;6_RMBW;Economic
+79;36;Expenditure-money reserved;Expenditure: money reserved;Economic Capital;Financial Capital;Deficit/Surplus;Here and now, Later;;;;City;Growth;8_Duurzame;Economic
+20;37;Port revenue -Non Fossil;Port revenue -Non Fossil;Economic Capital;Financial Capital;Net assets/liabilities;Here and now;;System Condition;Monetary;City;Sustainability;7_Klimaat;Economic
+;38;City procurement;City procurement;Economic Capital;Financial Capital;Investments;Here and Now, Elsewhere;;;;;Growth;10_DBoom;Economic
+;39;City procurement;City procurement;Economic Capital;Financial Capital;Investments;Here and Now, Elsewhere;;;;;Growth;9_SDGs;Economic
+;40;Disposable income;Disposable income;Economic Capital;Financial Capital;Expenditures;Here and now;;;;;Growth;10_DBoom;Economic
+31;41;Wealth inequality;Wealth inequality;Economic Capital;Financial Capital;Net assets/liabilities;Here and now;;;;City;Equal opp;2_BWMRA;Economic
+53;42;Transfers;transfers;Economic Capital;Financial Capital;Net assets/liabilities;Elsewhere;;Value Creation ;Monetary;;Growth;6_RMBW;Economic
+32;43;Knowledge Cap.Inventory;Knowledge Capital Goods Inventory;Economic Capital;Knowledge Capital;Stock of knowledge capital;Here and now, Later;;Value Creation ;Monetary;;Growth;6_RMBW;Economic
+11;44;MKI;MKI;Economic Capital;Monetary Aggregates;Natural capital;Here and now, Later, Elsewhere;Strategic;Value Creation ;Monetary;;Sustainability;3_ACM;Economic
+30;45;Specialization index;Specialization index;Economic Capital;Monetary Aggregates;Economic capital;Here and now, Later;;Value Creation ;Index;City;Growth;5_EVMRA;Economic
+3;46;Ground Fulfillment;Ground Fulfillment;Economic Capital;Non-Energy Resources;Resources;Here and now;Strategic;Value Creation ;Monetary;;Sustainability;3_ACM;Economic
+2;47;DMC;DMC;Economic Capital;Non-Energy Resources;Resources;Here and Now, Elsewhere;Strategic;Resource Flow;Mass;;Sustainability;3_ACM;Economic
+49;48;Imports goods-Asia;Imports of goods from Asia;Economic Capital;Non-Energy Resources;Imports;Elsewhere;;Resource Flow;Monetary;;Growth;6_RMBW;Economic
+1;49;DMI;DMI;Economic Capital;Non-Energy Resources;Resources;Here and Now, Elsewhere;Strategic;Resource Flow;Mass;;Sustainability;3_ACM;Economic
+45;50;Imports goods;Total imports of goods;Economic Capital;Non-Energy Resources;Imports;Elsewhere;;Resource Flow;Monetary;;Growth;6_RMBW;Economic
+50;51;Imports goods-Oceania;Imports of goods from Oceania;Economic Capital;Non-Energy Resources;Imports;Elsewhere;;Resource Flow;Monetary;;Growth;6_RMBW;Economic
+47;52;Imports goods-Africa;Imports of goods from Africa;Economic Capital;Non-Energy Resources;Imports;Elsewhere;;Resource Flow;Monetary;;Growth;6_RMBW;Economic
+4;53;RMI;RMI;Economic Capital;Non-Energy Resources;Resources;Elsewhere;Strategic;Resource Flow;Mass;;Sustainability;3_ACM;Economic
+5;54;RMC;RMC;Economic Capital;Non-Energy Resources;Resources;Elsewhere;Strategic;Resource Flow;Mass;;Sustainability;3_ACM;Economic
+9;55;Waste treated;Volume of waste treated;Economic Capital;Non-Energy Resources;Resources;Here and Now, Elsewhere;Strategic;Resource Flow;Mass;;Sustainability;3_ACM;Economic
+50;56;Ships visits;Total ships visits;Economic Capital;Non-Energy Resources;Intensity/Productivity;Here and Now, Elsewhere;;Resource Flow;Population;City;Growth;5_EVMRA;Economic
+51;57;Imports-LDC;Total imports from LDCs;Economic Capital;Non-Energy Resources;Imports;Elsewhere;;Resource Flow;Monetary;;Growth;6_RMBW;Economic
+48;58;Imports goods-America;Imports of goods from America;Economic Capital;Non-Energy Resources;Imports;Elsewhere;;Resource Flow;Monetary;;Growth;6_RMBW;Economic
+46;59;Import goods-Europe;Import of goods from Europe;Economic Capital;Non-Energy Resources;Imports;Elsewhere;;Resource Flow;Monetary;;Growth;6_RMBW;Economic
+21;60;Port Storage Capacity;Port Storage Capacity;Economic Capital;Physical Capital;Capital stock;Here and now;;;Volume;City;Sustainability;7_Klimaat;Economic
+31;61;Physical Cap. Inventory;Physical Capital Goods Inventory;Economic Capital;Physical Capital;Capital stock;Here and now, Later;;Resource Flow;Monetary;;Growth;6_RMBW;Economic
+14;62;Charging points;Charging points;Economic Capital;Physical Capital;Capital stock;Here and now, Later, Elsewhere;;Value Creation ;Population;City;Sustainability;7_Klimaat;Economic
+14;63;Business friendliness;Business friendliness;Economic Capital;Physical Capital;Infrastructure;Here and now;Tactical;System Condition;Index;Neighborhood;Growth;4_Stadsdonut;Economic
+;64;No companies;No companies;Economic Capital;Physical Capital;Capital stock;Here and now;;;;;Growth;10_DBoom;Economic
+9;65;Corporate market-energy;Corporate market-energy;Economic Capital;Physical Capital;Capital stock;Here and now;;Value Creation ;Population;City;Sustainability;7_Klimaat;Economic
+10;66;Social buildings;Social buildings;Economic Capital;Physical Capital;Capital stock;Here and now;;Value Creation ;Population;City;Sustainability;7_Klimaat;Economic
+16;67;Business MRA;Number of business establishments in MRA;Economic Capital;Physical Capital;Capital stock;Here and now, Later;;;;Regional;Growth;8_Duurzame;Economic
+;68;Jobs in energy and circularity;Jobs in energy and circularity;Economic Capital;Physical Capital;Capital stock;Here and Now, Elsewhere;;;;;Growth;9_SDGs;Economic
+14;69;Business AMS;Number of business establishments in Amsterdam   ;Economic Capital;Physical Capital;Capital stock;Here and now, Later;;;;City;Growth;8_Duurzame;Economic
+28;70;Electricity network;Electricity network;Economic Capital;Physical Capital;Capital stock;Here and now;;System Condition;Electric current;City;Sustainability;7_Klimaat;Economic
+27;71;Medium voltage areas;Medium voltage areas;Economic Capital;Physical Capital;Capital stock;Here and now;;System Condition;Electric current;City;Sustainability;7_Klimaat;Economic
+;72;No companies;No companies;Economic Capital;Physical Capital;Capital stock;Here and now;;;;;Growth;9_SDGs;Economic
+;73;Spending on cultural heritage;Spending on cultural heritage;Economic Capital;Physical Capital;Infrastructure;Here and now;;;;;Better admin;10_DBoom;Economic
+;74;Jobs in energy and circularity;Jobs in energy and circularity;Economic Capital;Physical Capital;Capital stock;Here and Now, Elsewhere;;;;;Growth;10_DBoom;Economic
+8;75;Bankrupcies;Number of bankruptcies ;Economic Capital;Physical Capital;Capital stock;Here and now, Later;;;;City;Growth;8_Duurzame;Economic
+;76;Mix of jobs_functions;Mix of jobs/functions;Economic Capital;Physical Capital;Capital stock;Here and now, Later;;;;;Growth;11_BBV;Economic
+9;77;Business closures;Number of business closures                                  ;Economic Capital;Physical Capital;Capital stock;Here and now, Later;;;;City;Growth;8_Duurzame;Economic
+7;78;Business AMS;Number of business establishments in Amsterdam   ;Economic Capital;Physical Capital;Capital stock;Here and now, Later;;;;City;Growth;8_Duurzame;Economic
+;79;Diversity economy;Diversity economy;Economic Capital;Physical Capital;Capital stock;Here and now;;;;;Growth;9_SDGs;Economic
+59;80;Active establishments;Total of active establishments;Economic Capital;Physical Capital;Distribution-Labour;Here and now;;System Condition;Units;;Growth;1_StaatVDS;Economic
+40;81;Vacant offices;Total vacant offices;Economic Capital;Physical Capital;Capital stock;Here and now, Later;;System Condition;Population;Neighborhood;Growth;5_EVMRA;Economic
+10;82;Business start-ups;Number of business start-ups                 ;Economic Capital;Physical Capital;Capital stock;Here and now, Later;;;;City;Growth;8_Duurzame;Economic
+26;83;Digital resources availability;Digital resources availability;Economic Capital;Physical Capital;Capital stock;Here and now;;System Condition;Index;Neighborhood;Equal opp;1_StaatVDS;Economic
+8;84;Corporate market-gen.;Corporate market-general;Economic Capital;Physical Capital;Capital stock;Here and now;;Value Creation ;Population;City;Sustainability;7_Klimaat;Economic
+;85;Spending on cultural heritage;Spending on cultural heritage;Economic Capital;Physical Capital;Infrastructure;Here and now;;;;;Better admin;9_SDGs;Economic
+;86;Diversity economy;Diversity economy;Economic Capital;Physical Capital;Capital stock;Here and now;;;;;Growth;10_DBoom;Economic
+;87;Establishments companies;Establishments (of companies);Economic Capital;Physical Capital;Capital stock;;;;;;Growth;11_BBV;Economic
+7;88;Access internet;Access to internet;Economic Capital;Physical Capital;ICT;Here and now;;System Condition;People;;Equal opp;4_Stadsdonut;Economic
+12;89;New construction-Tender;New construction-Tender;Economic Capital;Physical Capital;Capital stock;Here and now;;Value Creation ;Index;City;Sustainability;7_Klimaat;Economic
+;90;Relative absence;Relative absence;Human Capital;Education;Participation in education;;;;;;Growth;11_BBV;Economic
+8;91;Participation in lifelong learning;Participation in lifelong learning;Human Capital;Education;Lifelong learning;Here and now, Later;;;;City;Equal opp;2_BWMRA;Economic
+;92;Early school leavers;Early school leavers;Human Capital;Education;Participation in education;Here and now;;;;;Growth;9_SDGs;Economic
+;93;Segregation;Segregation;Human Capital;Education;Distribution-Education;Here and now;;;;;Equal opp;9_SDGs;Economic
+;94;NEET;Young people Not in Employment, Education or Training (NEET);Human Capital;Education;Participation in education;Here and now;;;;;Growth;9_SDGs;Economic
+;95;Pre-school education;Pre-school education;Human Capital;Education;Participation in education;Here and now;;;;;Growth;9_SDGs;Economic
+1;96;Starting Qualification;Starting Qualification;Human Capital;Education;Educational attainment;Here and now, Later;;;;City;Equal opp;2_BWMRA;Economic
+;97;High level of school advice;High level of school advice;Human Capital;Education;Educational attainment;Here and now;;;;;Growth;10_DBoom;Economic
+;98;Early school leavers;Early school leavers without starting qualifications (vsv-ers);Human Capital;Education;Educational attainment;;;;;;Growth;11_BBV;Economic
+;99;Risk educational disadvantage;Risk educational disadvantage;Human Capital;Education;Participation in education;Here and now;;;;;Growth;9_SDGs;Economic
+;100;Start qualification;Start qualification;Human Capital;Education;Participation in education;Here and now;;;;;Growth;10_DBoom;Economic
+;101;NEET;NEET;Human Capital;Education;Participation in education;Here and now;;;;;Growth;10_DBoom;Economic
+;102;NEET;NEET;Human Capital;Education;Participation in education;Here and now;;;;;Growth;9_SDGs;Economic
+;103;Absolute absence;Absolute absence;Human Capital;Education;Participation in education;;;;;;Growth;11_BBV;Economic
+;104;Disadvantaged Students;Disadvantaged Students;Human Capital;Education;Educational attainment;;;;;;Growth;11_BBV;Economic
+;105;Net employment rate;Net employment rate;Human Capital;Education;Educational attainment;;;;;;Growth;11_BBV;Economic
+;106;Start qualification;Start qualification;Human Capital;Education;Participation in education;Here and now;;;;;Growth;9_SDGs;Economic
+;107;NEET;Young people Not in Employment, Education or Training (NEET);Human Capital;Education;Participation in education;Here and now;;;;;Growth;10_DBoom;Economic
+;108;Risk educational disadvantage;Risk educational disadvantage;Human Capital;Education;Participation in education;Here and now;;;;;Growth;10_DBoom;Economic
+;109;Pre-school education;Pre-school education;Human Capital;Education;Participation in education;Here and now;;;;;Growth;10_DBoom;Economic
+;110;Early school leavers;Early school leavers;Human Capital;Education;Participation in education;Here and now;;;;;Growth;10_DBoom;Economic
+;111;Segregation;Segregation;Human Capital;Education;Distribution-Education;Here and now;;;;;Equal opp;10_DBoom;Economic
+;112;High level of school advice;High level of school advice;Human Capital;Education;Educational attainment;Here and now;;;;;Growth;9_SDGs;Economic
+;113;Clients with customized WMO arrangements;Clients with customized WMO arrangements.;Human Capital;Health;Health care facilities;;;;;;Safety;11_BBV;Economic
+;114;Representation women in administration;Representation women in administration;Human Capital;Labour;Distribution-Labour;Here and now;;;;;Equal opp;10_DBoom;Economic
+;115;Shortage of teachers;Shortage of teachers;Human Capital;Labour;Labour force;Here and now;;;;;Growth;10_DBoom;Economic
+;116;Youth unemployment;Youth unemployment;Human Capital;Labour;Unemployment;Here and now;;;;;Growth;9_SDGs;Economic
+;117;Employment;Employment;Human Capital;Labour;Employment rate;Here and now;;;;;Growth;10_DBoom;Economic
+5;118;Online vacancies;Number of online vacancies;Human Capital;Labour;Workplaces-Vacancies;Here and now;;;;City;Equal opp;8_Duurzame;Economic
+3;119;Unemployment rate;Unemployment rate;Human Capital;Labour;Unemployment;Here and now;Strategic;System Condition;Population;City;Equal opp;5_EVMRA;Economic
+;120;Ongoing reintegration provisions;Ongoing reintegration provisions;Human Capital;Labour;Distribution-Labour;;;;;;Growth;11_BBV;Economic
+;121;Economic participation per gender;Economic participation per gender;Human Capital;Labour;Distribution-Labour;Here and now;;;;;Growth;10_DBoom;Economic
+22;122;Participation rate;Participation rate;Human Capital;Labour;Employment rate;Here and now;;;;City;Growth;2_BWMRA;Economic
+;123;Women managers in city organization;Women managers in city organization;Human Capital;Labour;Distribution-Labour;Here and now;;;;;Equal opp;9_SDGs;Economic
+;124;Shortage of teachers;Shortage of teachers;Human Capital;Labour;Labour force;Here and now;;;;;Growth;9_SDGs;Economic
+20;125;Natural attrition;Natural attrition;Human Capital;Labour;Employment rate;Here and now, Later;Strategic;System Condition;Population;City;Growth;5_EVMRA;Economic
+43;126;Worked hours;Worked hours;Human Capital;Labour;Hours worked;Here and now, Later;;Adverse Outcome;Time;;Growth;6_RMBW;Economic
+;127;Employment per gender;Employment per gender;Human Capital;Labour;Distribution-Labour;Here and now;;;;;Growth;10_DBoom;Economic
+4;128;Labour productivity;Labour productivity;Human Capital;Labour;Productivity;Here and now;;;;City;Growth;2_BWMRA;Economic
+15;129;Unemployment labor force;Unemployment - labor force;Human Capital;Labour;Distribution-Labour-;Here and now;Strategic;System Condition;Population;City;Equal opp;5_EVMRA;Economic
+;130;Paid work;Paid work;Human Capital;Labour;Labour force;Here and now;;;;;Growth;9_SDGs;Economic
+;131;Women managers in city organization;Women managers in city organization;Human Capital;Labour;Distribution-Labour;Here and now;;;;;Equal opp;10_DBoom;Economic
+;132;Income level per gender;Income level per gender;Human Capital;Labour;Distribution-Labour;Here and now;;;;;Growth;10_DBoom;Economic
+12;133;Labor force age;Labor force - age;Human Capital;Labour;Distribution-Labour-;Here and now, Later;Strategic;System Condition;Population;City;Growth;5_EVMRA;Economic
+;134;Jobs;Jobs;Human Capital;Labour;Distribution-Labour;;;;;;Growth;11_BBV;Economic
+13;135;Inactive population;Inactive population;Human Capital;Labour;Distribution-Labour-;Here and now, Later;Strategic;System Condition;Population;City;Growth;5_EVMRA;Economic
+10;136;Labor force potential;Labor force - potential;Human Capital;Labour;Distribution-Labour-;Here and now, Later;Strategic;System Condition;Population;City;Growth;5_EVMRA;Economic
+;137;Unemployed youths;Unemployed youths;Human Capital;Labour;Distribution-Labour;;;;;;Growth;11_BBV;Economic
+;138;Representation women in city organization;Representation women in city organization;Human Capital;Labour;Distribution-Labour;Here and now;;;;;Equal opp;9_SDGs;Economic
+;139;Representation women in city organization;Representation women in city organization;Human Capital;Labour;Distribution-Labour;Here and now;;;;;Equal opp;10_DBoom;Economic
+13;140;Technical vacancies online;Number of technical job vacancies online          ;Human Capital;Labour;Workplaces-Vacancies;Here and now;;;;City;Growth;8_Duurzame;Economic
+;141;Representation women in administration;Representation women in administration;Human Capital;Labour;Distribution-Labour;Here and now;;;;;Equal opp;9_SDGs;Economic
+;142;Economic participation per gender;Economic participation per gender;Human Capital;Labour;Distribution-Labour;Here and now;;;;;Growth;9_SDGs;Economic
+93;143;Workplaces AMS residents;Number of workplaces for Amsterdam residents;Human Capital;Labour;Workplaces-Vacancies;Here and now, Later;;;;City;Growth;8_Duurzame;Economic
+;144;Paid work;Paid work;Human Capital;Labour;Labour force;Here and now;;;;;Growth;10_DBoom;Economic
+;145;Income level per gender;Income level per gender;Human Capital;Labour;Distribution-Labour;Here and now;;;;;Growth;9_SDGs;Economic
+;146;Youth unemployment;Youth unemployment;Human Capital;Labour;Unemployment;Here and now;;;;;Growth;10_DBoom;Economic
+11;147;Labor force people;Labor force - people;Human Capital;Labour;Distribution-Labour-;Here and now, Later;Strategic;System Condition;Population;City;Growth;5_EVMRA;Economic
+;148;Employment;Employment;Human Capital;Labour;Employment rate;Here and now;;;;;Growth;9_SDGs;Economic
+;149;Employment per gender;Employment per gender;Human Capital;Labour;Distribution-Labour;Here and now;;;;;Growth;9_SDGs;Economic
+82;150;Ultrafine particles;Ultrafine particles (PM2.5);Natural Capital;Air Quality;Emissions of particulate matter;Here and now;;;Mass;Neighborhood;Safety;1_StaatVDS;Environmental
+;151;Air quality;Air quality;Natural Capital;Air Quality;Particulate matter concentration;Here and Now, Elsewhere;;;;;Sustainability;10_DBoom;Environmental
+35;152;Air pollution;Air pollution;Natural Capital;Air Quality;Emissions of particulate matter;Here and now;Tactical;Adverse Outcome;Amount substance;City;Safety;4_Stadsdonut;Environmental
+2;153;Particulate matter exposure;Particulate matter exposure;Natural Capital;Air Quality;Emissions of particulate matter;Here and now, Later, Elsewhere;;;;City;Safety;2_BWMRA;Environmental
+29;154;Exposure particulate matter ;Urban exposure to particulate matter (PM2.5)†;Natural Capital;Air Quality;Particulate matter concentration;Here and now, Later;;Adverse Outcome;Amount substance;;Safety;6_RMBW;Environmental
+;155;Air quality;Air quality;Natural Capital;Air Quality;Particulate matter concentration;Here and Now, Elsewhere;;;;;Sustainability;9_SDGs;Environmental
+81;156;Nitrogen dioxide;Nitrogen dioxide;Natural Capital;Air Quality;General air pollution;Here and now;;;Mass;Neighborhood;Sustainability;1_StaatVDS;Environmental
+;157;Municipal sustainability index;Municipal sustainability index;Natural Capital;Climate;State of the climate;Here and now;;;;;Better admin;9_SDGs;Environmental
+36;158;Air Ozone layer depletion;Air Ozone layer depletion;Natural Capital;Climate;Ozone depleting substances;Here and now, Later, Elsewhere;Tactical;Value Creation ;Mass;National;Sustainability;4_Stadsdonut;Environmental
+27;159;Total greenhouse gas emissions per inhabitant;Total greenhouse gas emissions per inhabitant;Natural Capital;Climate;GHG emissions;Here and now, Later, Elsewhere;;;;City;Sustainability;2_BWMRA;Environmental
+;160;CO2 emissions per transition path;CO2 emissions per transition path;Natural Capital;Climate;CO2 emissions;Here and now, Later;;;;;Sustainability;9_SDGs;Environmental
+34;161;Air Climate change;Air Climate change;Natural Capital;Climate;GHG emissions;Here and now, Later, Elsewhere;Strategic;Adverse Outcome;Mass;;Sustainability;4_Stadsdonut;Environmental
+48;162;CO2 aviation GHG;CO2 aviation emissions;Natural Capital;Climate;GHG emissions;Here and now, Later, Elsewhere;;Adverse Outcome;Mass;City;Sustainability;5_EVMRA;Environmental
+41;163;CO2 emissions;CO2 emissions;Natural Capital;Climate;GHG emissions;Here and now, Later, Elsewhere;;Adverse Outcome;Mass;City;Sustainability;5_EVMRA;Environmental
+22;164;CO2 emissions - Port;CO2 emissions - Port;Natural Capital;Climate;GHG emissions;Here and now, Later, Elsewhere;;Adverse Outcome;Mass;City;Sustainability;7_Klimaat;Environmental
+64;165;Greenhouse gas footprint;Greenhouse gas footprint;Natural Capital;Climate;GHG emissions;Here and now, Later, Elsewhere;;Adverse Outcome;Mass;;Sustainability;6_RMBW;Environmental
+30;166;Env. problems;Environmental problems;Natural Capital;Climate;GHG emissions;Here and now, Later;;Adverse Outcome;Population;;Sustainability;6_RMBW;Environmental
+;167;CO2 emissions municipality;CO2 emissions municipality;Natural Capital;Climate;CO2 emissions;Here and now, Later;;;;;Sustainability;10_DBoom;Environmental
+1;168;CO2 emissions;CO2-emissions;Natural Capital;Climate;GHG emissions;Here and now, Later, Elsewhere;;Adverse Outcome;Mass;Neighborhood;Sustainability;7_Klimaat;Environmental
+;169;Municipal sustainability index;Municipal sustainability index;Natural Capital;Climate;State of the climate;Here and now;;;;;Better admin;10_DBoom;Environmental
+28;170;Water carbon storage;Water carbon storage;Natural Capital;Climate;Historical CO2- emissions;Here and now, Later, Elsewhere;;Value Creation ;Mass;;Sustainability;4_Stadsdonut;Environmental
+51;171;CO2 emissions North Sea;Co2 emissions - North Sea;Natural Capital;Climate;GHG emissions;Here and now, Later, Elsewhere;;Adverse Outcome;Mass;City;Sustainability;5_EVMRA;Environmental
+64;172;CO2 Emissions;CO2 Emissions;Natural Capital;Climate;GHG emissions;Here and now, Later, Elsewhere;;Adverse Outcome;Mass;;Sustainability;1_StaatVDS;Environmental
+5;173;Reduction CO2-House Association;Reduction CO2-Housing Associations;Natural Capital;Climate;GHG emissions;Here and now, Later, Elsewhere;;Value Creation ;Mass;City;Sustainability;7_Klimaat;Environmental
+63;174;Commodity footprint;Commodity footprint;Natural Capital;Climate;Footprint;Elsewhere;;Adverse Outcome;Mass;;Sustainability;6_RMBW;Environmental
+15;175;CO2 emissions - Mobility;CO2 emissions - Mobility;Natural Capital;Climate;GHG emissions;Here and now, Later, Elsewhere;;Adverse Outcome;Mass;City;Sustainability;7_Klimaat;Environmental
+;176;Estimated CO2 emissions 2030;Estimated CO2 emissions 2030;Natural Capital;Climate;Historical CO2- emissions;Here and now, Later;;;;;Sustainability;10_DBoom;Environmental
+42;177;Cumulative CO2 emissions;Cumulative CO2-emissions;Natural Capital;Climate;Historical CO2- emissions;Here and now, Later, Elsewhere;;Adverse Outcome;Mass;;Sustainability;6_RMBW;Environmental
+19;178;CO2 emissions - Electricity;CO2 emissions - Electricity;Natural Capital;Climate;GHG emissions;Here and now, Later, Elsewhere;;Adverse Outcome;Mass;City;Sustainability;7_Klimaat;Environmental
+;179;CO2 emissions;CO2 emissions;Natural Capital;Climate;CO2 emissions;Here and now, Later;;;;;Sustainability;9_SDGs;Environmental
+33;180;Urban island effect;Urban island effect;Natural Capital;Climate;State of the climate;Here and now;Tactical;Adverse Outcome;Temperature;City;Safety;4_Stadsdonut;Environmental
+;181;CO2 emissions municipality;CO2 emissions municipality;Natural Capital;Climate;CO2 emissions;Here and now, Later;;;;;Sustainability;9_SDGs;Environmental
+;182;Estimated CO2 emissions 2030;Estimated CO2 emissions 2030;Natural Capital;Climate;Historical CO2- emissions;Here and now, Later;;;;;Sustainability;9_SDGs;Environmental
+;183;CO2 emissions per transition path;CO2 emissions per transition path;Natural Capital;Climate;CO2 emissions;Here and now, Later;;;;;Sustainability;10_DBoom;Environmental
+;184;CO2 emissions;CO2 emissions;Natural Capital;Climate;CO2 emissions;Here and now, Later;;;;;Sustainability;10_DBoom;Environmental
+88;185;Perceived temperature ;Average perceived temperature;Natural Capital;Climate;State of the climate;Here and now;;Adverse Outcome;Temperature;;Sustainability;1_StaatVDS;Environmental
+;186;CO2 emissions - Housing;CO2 emissions - Housing;Natural Capital;Climate;CO2 emissions;Here and now, Later, Elsewhere;;;;;Sustainability;7_Klimaat;Environmental
+10;187;Share of renewable energy per capita;Share of renewable energy per capita;Natural Capital;Energy Resources;Renewable energy;Here and now, Later;;;;City;Sustainability;2_BWMRA;Environmental
+4;188;Gas free-investment;Natural gas free-investment;Natural Capital;Energy Resources;Renewable energy;Here and now, Later, Elsewhere;;Resource Flow;Population;Neighborhood;Sustainability;7_Klimaat;Environmental
+54;189;Import fossil energy;Import of fossil energy carriers;Natural Capital;Energy Resources;Energy dependency;Elsewhere;;Resource Flow;Mass;;Sustainability;6_RMBW;Environmental
+65;190;Sustainable energy measures taken by companies;Sustainable energy measures taken by companies;Natural Capital;Energy Resources;Renewable energy;Here and now, Later, Elsewhere;;Value Creation ;Units;;Sustainability;1_StaatVDS;Environmental
+67;191;Installed wind turbines;Total installed capacity of wind turbines;Natural Capital;Energy Resources;Renewable energy;Here and now, Later, Elsewhere;;Value Creation ;Electric current;;Sustainability;1_StaatVDS;Environmental
+2;192;Gas free-homes;Natural gas free-homes;Natural Capital;Energy Resources;Renewable energy;Here and now, Later, Elsewhere;;Resource Flow;Population;Neighborhood;Sustainability;7_Klimaat;Environmental
+43;193;Renewable energy;Renewable energy;Natural Capital;Energy Resources;Renewable energy;Here and now, Later;;Resource Flow;Electric current;City;Sustainability;5_EVMRA;Environmental
+66;194;Installed solar panels;Total installed capacity of solar panels;Natural Capital;Energy Resources;Renewable energy;Here and now, Later, Elsewhere;;Value Creation ;Electric current;;Sustainability;1_StaatVDS;Environmental
+68;195;Housing natural-gas free;Housing stock with natural-gas free;Natural Capital;Energy Resources;Renewable energy;Here and now, Later, Elsewhere;;Value Creation ;Units;;Sustainability;1_StaatVDS;Environmental
+61;196;Imports biomass-LDC;Imports of biomass from LDCs;Natural Capital;Energy Resources;Imports;Elsewhere;;Resource Flow;Mass;;Sustainability;6_RMBW;Environmental
+;197;Share of houses on heat-net;Share of houses on heat-net;Natural Capital;Energy Resources;Renewable energy;Here and now, Later;;;;;Growth;9_SDGs;Environmental
+102;198;Materials transport modes Non-Energy;Materials per mode of transport-Non-Energy Resources;Natural Capital;Energy Resources;Consumption;Here and now;;Resource Flow;Mass;City;Sustainability;1_StaatVDS;Environmental
+60;199;Import biomass;Import biomass;Natural Capital;Energy Resources;Imports;Elsewhere;;Resource Flow;Mass;;Sustainability;6_RMBW;Environmental
+;200;Installed capacity solar panels;Installed capacity solar panels;Natural Capital;Energy Resources;Renewable energy;Here and now, Later;;;;;Sustainability;10_DBoom;Environmental
+;201;Installed capacity solar panels;Installed capacity solar panels;Natural Capital;Energy Resources;Renewable energy;Here and now, Later;;;;;Sustainability;9_SDGs;Environmental
+;202;Installed capacity wind energy;Installed capacity wind energy;Natural Capital;Energy Resources;Renewable energy;Here and now, Later;;;;;Sustainability;10_DBoom;Environmental
+3;203;Gas free-Kickoff;Natural gas free-Kickoff;Natural Capital;Energy Resources;Renewable energy;Here and now, Later, Elsewhere;;Resource Flow;Population;Neighborhood;Sustainability;7_Klimaat;Environmental
+72;204;Renewable energy;Renewable energy;Natural Capital;Energy Resources;Renewable energy;Here and now, Later, Elsewhere;;Resource Flow;Electric current;;Sustainability;6_RMBW;Environmental
+17;205;Planned gas free neigh.;Planned gas free neighbourhoods;Natural Capital;Energy Resources;Renewable energy;Here and now, Later, Elsewhere;Project outcome;Resource Flow;People;Neighborhood;Sustainability;4_Stadsdonut;Environmental
+;206;Renewable electricity;Renewable electricity;Natural Capital;Energy Resources;Renewable energy;;;;;;Sustainability;11_BBV;Environmental
+;207;Share of homes with solar panels;Share of homes with solar panels;Natural Capital;Energy Resources;Renewable energy;Here and now, Later;;;;;Sustainability;10_DBoom;Environmental
+;208;Installed capacity wind energy;Installed capacity wind energy;Natural Capital;Energy Resources;Renewable energy;Here and now, Later;;;;;Sustainability;9_SDGs;Environmental
+;209;Share of houses on heat-net;Share of houses on heat-net;Natural Capital;Energy Resources;Renewable energy;Here and now, Later;;;;;Growth;10_DBoom;Environmental
+17;210;Share of renewable energy;Share of renewable energy;Natural Capital;Energy Resources;Renewable energy;Here and now, Later;;;;City;Sustainability;2_BWMRA;Environmental
+55;211;Import fossil energy -LDC;Import of fossil energy carriers from LDCs;Natural Capital;Energy Resources;Energy dependency;Elsewhere;;Resource Flow;Mass;;Sustainability;6_RMBW;Environmental
+;212;Share of homes with solar panels;Share of homes with solar panels;Natural Capital;Energy Resources;Renewable energy;Here and now, Later;;;;;Sustainability;9_SDGs;Environmental
+;213;Distance to green;Distance to green;Natural Capital;Land and Ecosystems ;Land use;Here and now;;;;;Sustainability;10_DBoom;Environmental
+38;214;Nitrogen surplus;Nitrogen surplus;Natural Capital;Land and Ecosystems ;Soil quality;Here and now, Later;;Adverse Outcome;Mass;;Sustainability;6_RMBW;Environmental
+36;215;Green-blue space;Green-blue space, excluding regular agriculture;Natural Capital;Land and Ecosystems ;Species/Ecosystems;Here and now, Later;;System Condition;Unit per capita;;Sustainability;6_RMBW;Environmental
+62;216;Land footprint;Land footprint;Natural Capital;Land and Ecosystems ;Footprint;Elsewhere;;Adverse Outcome;Mass;;Sustainability;6_RMBW;Environmental
+32;217;Land use;Land use;Natural Capital;Land and Ecosystems ;Land;Here and now, Later;;System Condition;Lenght;Neighborhood;Sustainability;5_EVMRA;Environmental
+87;218;Surface area green roofs;Surface area green roofs;Natural Capital;Land and Ecosystems ;Land use;Here and now, Later;;;;Neighborhood;Sustainability;1_StaatVDS;Environmental
+;219;Green space per capita;Green space per capita;Natural Capital;Land and Ecosystems ;Land use;Here and now;;;;;Sustainability;9_SDGs;Environmental
+84;220;Satisfaction green ;Satisfaction with green space;Natural Capital;Land and Ecosystems ;Subjective-Land and Ecosystems;Here and now;;;;Neighborhood;Safety;1_StaatVDS;Environmental
+47;221;Schiphol land use;Schiphol land use;Natural Capital;Land and Ecosystems ;Terrestrial ecosystems;Here and now, Later;;Adverse Outcome;Lenght;City;Sustainability;5_EVMRA;Environmental
+;222;Nature and forest area;Nature and forest area;Natural Capital;Land and Ecosystems ;Forest;Here and now, Later;;;;;Sustainability;9_SDGs;Environmental
+43;223;Water Overfishing;Water Overfishing;Natural Capital;Land and Ecosystems ;Species/Ecosystems;Here and now, Later, Elsewhere;Tactical;Adverse Outcome;Mass;National;Sustainability;4_Stadsdonut;Environmental
+30;224;Land support biodiversity;Land support biodiversity;Natural Capital;Land and Ecosystems ;Species/Ecosystems;Here and now, Later;Tactical;Value Creation ;Lenght;City;Sustainability;4_Stadsdonut;Environmental
+;225;Amount of green and trees;Amount of green and trees;Natural Capital;Land and Ecosystems ;Species/Ecosystems;Here and now, Later;;;;;Sustainability;10_DBoom;Environmental
+85;226;Green space per house;Green space per house;Natural Capital;Land and Ecosystems ;Land use;Here and now, Later;;;;City;Safety;1_StaatVDS;Environmental
+;227;Green space per home;Green space per home;Natural Capital;Land and Ecosystems ;Land use;Here and now;;;;;Sustainability;9_SDGs;Environmental
+90;228;Flora and Fauna ;Status flora and fauna ;Natural Capital;Land and Ecosystems ;Species/Ecosystems;Here and now, Later;;System Condition;Index;City;Sustainability;1_StaatVDS;Environmental
+40;229;Livestock footprint;Livestock footprint;Natural Capital;Land and Ecosystems ;Footprint;Here and now, Later;;Adverse Outcome;Lenght;;Sustainability;4_Stadsdonut;Environmental
+29;230;Land erosion protection;Land erosion protection;Natural Capital;Land and Ecosystems ;Land;Here and now, Later;Tactical;Value Creation ;Volume;National;Sustainability;4_Stadsdonut;Environmental
+29;231;Satisfaction with green space;Satisfaction with green space;Natural Capital;Land and Ecosystems ;Land;Here and now;;;;City;Safety;2_BWMRA;Environmental
+86;232;Amount of green roofs;Total amount of green roofs;Natural Capital;Land and Ecosystems ;Land use;Here and now, Later;;Value Creation ;Units;Neighborhood;Sustainability;1_StaatVDS;Environmental
+37;233;Phosphorus surplus;Phosphorus surplus;Natural Capital;Land and Ecosystems ;Soil quality;Here and now, Later;;Adverse Outcome;Mass;;Sustainability;6_RMBW;Environmental
+;234;Green space per capita;Green space per capita;Natural Capital;Land and Ecosystems ;Land use;Here and now;;;;;Sustainability;10_DBoom;Environmental
+25;235;Managed nature;Managed nature in NNN;Natural Capital;Land and Ecosystems ;Species/Ecosystems;Here and now, Later;Tactical;System Condition;Lenght;;Sustainability;6_RMBW;Environmental
+;236;Nature per capita;Nature per capita;Natural Capital;Land and Ecosystems ;Land use;Here and now, Later;;;;;Sustainability;9_SDGs;Environmental
+28;237;Nitrogen deposition;Nitrogen deposition and land nature;Natural Capital;Land and Ecosystems ;Soil quality;Here and now, Later;;Adverse Outcome;Amount substance;;Sustainability;6_RMBW;Environmental
+;238;Amount of green and trees;Amount of green and trees;Natural Capital;Land and Ecosystems ;Species/Ecosystems;Here and now, Later;;;;;Sustainability;9_SDGs;Environmental
+;239;Forest area;Forest area;Natural Capital;Land and Ecosystems ;Forest;Here and now, Later;;;;;Sustainability;10_DBoom;Environmental
+27;240;Fauna freshwater;Fauna of freshwater and swamp;Natural Capital;Land and Ecosystems ;Species/Ecosystems;Here and now, Later;;System Condition;Index;;Sustainability;6_RMBW;Environmental
+39;241;Fauna land;Fauna of the land;Natural Capital;Land and Ecosystems ;Species/Ecosystems;Here and now, Later;;System Condition;Index;;Sustainability;6_RMBW;Environmental
+;242;Green space per home;Green space per home;Natural Capital;Land and Ecosystems ;Land use;Here and now;;;;;Sustainability;10_DBoom;Environmental
+39;243;Forestry footprint;Forestry footprint;Natural Capital;Land and Ecosystems ;Footprint;Here and now, Later;;Adverse Outcome;Lenght;;Sustainability;4_Stadsdonut;Environmental
+;244;Distance to green;Distance to green;Natural Capital;Land and Ecosystems ;Land use;Here and now;;;;;Sustainability;9_SDGs;Environmental
+;245;Forest area;Forest area;Natural Capital;Land and Ecosystems ;Forest;Here and now, Later;;;;;Sustainability;9_SDGs;Environmental
+52;246;Land intake North sea;Land intake - North sea;Natural Capital;Land and Ecosystems ;Footprint;Here and now, Later;Strategic;Value Creation ;Lenght;City;Sustainability;5_EVMRA;Environmental
+38;247;Agriculture footprint;Agriculture footprint;Natural Capital;Land and Ecosystems ;Footprint;Here and now, Later;;Adverse Outcome;Lenght;;Sustainability;4_Stadsdonut;Environmental
+83;248;Green space types;Types of green space within the city;Natural Capital;Land and Ecosystems ;Land use;Here and now, Later;;Value Creation ;Lenght;Neighborhood;Sustainability;1_StaatVDS;Environmental
+;249;Nature per capita;Nature per capita;Natural Capital;Land and Ecosystems ;Land use;Here and now, Later;;;;;Sustainability;10_DBoom;Environmental
+;250;Nature and forest area;Nature and forest area;Natural Capital;Land and Ecosystems ;Forest;Here and now, Later;;;;;Sustainability;10_DBoom;Environmental
+37;251;Non-recyclable waste;Country Non-recyclable waste;Natural Capital;Non-Energy Resources;Waste;Here and Now, Elsewhere;;Resource Flow;Mass;;Sustainability;4_Stadsdonut;Environmental
+74;252;Raw petroleum products;Consumption of raw petroleum and petroleum products;Natural Capital;Non-Energy Resources;Consumption;Here and now, Later, Elsewhere;;Resource Flow;Mass;;Sustainability;1_StaatVDS;Environmental
+;253;Separation household waste;Separation household waste;Natural Capital;Non-Energy Resources;Waste;Here and Now, Elsewhere;;;;;Sustainability;9_SDGs;Environmental
+;254;Waste industry;Waste industry;Natural Capital;Non-Energy Resources;Waste;Here and Now, Elsewhere;;;;;Sustainability;9_SDGs;Environmental
+10;255;Raw material loss;Raw material loss rate;Natural Capital;Non-Energy Resources;Resources;Here and Now, Elsewhere;Tactical;Resource Flow;Mass;;Sustainability;3_ACM;Environmental
+57;256;Import metals-LDC;Import metals from LDCs;Natural Capital;Non-Energy Resources;Imports;Elsewhere;;Resource Flow;Mass;;Sustainability;6_RMBW;Environmental
+;257;Material consumption;Material consumption;Natural Capital;Non-Energy Resources;Consumption;Here and Now, Elsewhere;;;;;Sustainability;10_DBoom;Environmental
+;258;Waste households;Waste households;Natural Capital;Non-Energy Resources;Waste;Here and Now, Elsewhere;;;;;Sustainability;10_DBoom;Environmental
+80;259;Waste method;Waste processing method;Natural Capital;Non-Energy Resources;Waste;Here and now;;Resource Flow;Mass;;Sustainability;1_StaatVDS;Environmental
+8;260;Share unknown;Share unknown;Natural Capital;Non-Energy Resources;Resources;Here and Now, Elsewhere;Tactical;Resource Flow;Mass;;Sustainability;3_ACM;Environmental
+;261;Waste industry;Waste industry;Natural Capital;Non-Energy Resources;Waste;Here and Now, Elsewhere;;;;;Sustainability;10_DBoom;Environmental
+73;262;Raw metal residues;Consumption of raw metal residues;Natural Capital;Non-Energy Resources;Consumption;Here and now, Later, Elsewhere;;Resource Flow;Mass;;Sustainability;1_StaatVDS;Environmental
+72;263;Raw metals semi-finished prod.;Consumption of raw metals, metal semi-finished products;Natural Capital;Non-Energy Resources;Consumption;Here and now, Later, Elsewhere;;Resource Flow;Mass;;Sustainability;1_StaatVDS;Environmental
+44;264;Household residual waste;Household residual waste;Natural Capital;Non-Energy Resources;Waste;Here and now, Later;;Adverse Outcome;Mass;City;Sustainability;5_EVMRA;Environmental
+78;265;Household waste;Total household waste per inhabitant;Natural Capital;Non-Energy Resources;Waste;Here and now;;Resource Flow;Mass;;Sustainability;1_StaatVDS;Environmental
+;266;Household residual waste;Size of household residual waste;Natural Capital;Non-Energy Resources;Waste;;;;;;Sustainability;11_BBV;Environmental
+6;267;Waste generated;Amount of waste generated;Natural Capital;Non-Energy Resources;Resources;Here and now;Strategic;Adverse Outcome;Mass;;Sustainability;3_ACM;Environmental
+77;268;Raw agricultural products;Consumption of raw agricultural products and live animals;Natural Capital;Non-Energy Resources;Consumption;Here and now, Later, Elsewhere;;Resource Flow;Mass;;Sustainability;1_StaatVDS;Environmental
+7;269;Share recycling;Share of recycling;Natural Capital;Non-Energy Resources;Resources;Here and Now, Elsewhere;Strategic;Resource Flow;Mass;;Sustainability;3_ACM;Environmental
+59;270;Imports non-metallic minerals-LDC;Imports of non-metallic minerals from LDCs;Natural Capital;Non-Energy Resources;Imports;Elsewhere;;Resource Flow;Mass;;Sustainability;6_RMBW;Environmental
+;271;Total amount of waste;Total amount of waste;Natural Capital;Non-Energy Resources;Waste;Here and Now, Elsewhere;;;;;Sustainability;10_DBoom;Environmental
+79;272;Household waste categories;Household waste per categorie;Natural Capital;Non-Energy Resources;Waste;Here and now;;Resource Flow;Mass;City;Sustainability;1_StaatVDS;Environmental
+;273;Separation household waste;Separation household waste;Natural Capital;Non-Energy Resources;Waste;Here and Now, Elsewhere;;;;;Sustainability;10_DBoom;Environmental
+;274;Material consumption;Material consumption;Natural Capital;Non-Energy Resources;Consumption;Here and Now, Elsewhere;;;;;Sustainability;9_SDGs;Environmental
+58;275;Imports non-metallic minerals;Imports of non-metallic minerals;Natural Capital;Non-Energy Resources;Imports;Elsewhere;;Resource Flow;Mass;;Sustainability;6_RMBW;Environmental
+28;276;Waste separation rate;Waste separation rate;Natural Capital;Non-Energy Resources;Waste;Here and now, Later, Elsewhere;;;;City;Sustainability;2_BWMRA;Environmental
+76;277;Raw food - animal feed;Consumption of raw food products and animal feed;Natural Capital;Non-Energy Resources;Consumption;Here and now, Later, Elsewhere;;Resource Flow;Mass;;Sustainability;1_StaatVDS;Environmental
+56;278;Import metals;Import metals;Natural Capital;Non-Energy Resources;Imports;Elsewhere;;Resource Flow;Mass;;Sustainability;6_RMBW;Environmental
+;279;Total amount of waste;Total amount of waste;Natural Capital;Non-Energy Resources;Waste;Here and Now, Elsewhere;;;;;Sustainability;9_SDGs;Environmental
+;280;Waste households;Waste households;Natural Capital;Non-Energy Resources;Waste;Here and Now, Elsewhere;;;;;Sustainability;9_SDGs;Environmental
+71;281;Raw minerals build materials;Consumption of raw raw minerals and building materials;Natural Capital;Non-Energy Resources;Consumption;Here and now, Later, Elsewhere;;Resource Flow;Mass;;Sustainability;1_StaatVDS;Environmental
+70;282;Cons. raw fertilizers;Consumption of raw fertilizers;Natural Capital;Non-Energy Resources;Consumption;Here and now, Later, Elsewhere;;Resource Flow;Mass;;Sustainability;1_StaatVDS;Environmental
+19;283;Waste per inhabitant;Waste per inhabitant;Natural Capital;Non-Energy Resources;Waste;Here and now;;;;City;Sustainability;2_BWMRA;Environmental
+69;284;Cons. Raw Chemicals;Consumption of raw chemical products;Natural Capital;Non-Energy Resources;Consumption;Here and now, Later, Elsewhere;;Resource Flow;Mass;;Sustainability;1_StaatVDS;Environmental
+101;285;Materials transport modes Energy;Materials per mode of transport - Energy;Natural Capital;Non-Energy Resources;Consumption;Here and now;;Resource Flow;Mass;City;Sustainability;1_StaatVDS;Environmental
+75;286;Raw solid mineral fuels;Consumption of raw solid mineral fuels;Natural Capital;Non-Energy Resources;Consumption;Here and now, Later, Elsewhere;;Resource Flow;Mass;;Sustainability;1_StaatVDS;Environmental
+;287;Groundwater levels;Groundwater levels;Natural Capital;Water;Abstraction;Here and now, Later;;;;;Sustainability;9_SDGs;Environmental
+42;288;Water Fresh abstraction;Water Fresh water abstraction;Natural Capital;Water;Abstraction;Here and now, Later, Elsewhere;Tactical;Resource Flow;Volume;National;Sustainability;4_Stadsdonut;Environmental
+;289;Sewage charges;Sewage charges;Natural Capital;Water;Consumption;Here and now;;;;;Better admin;9_SDGs;Environmental
+27;290;Water supply;Water supply;Natural Capital;Water;Resources;Here and now, Later;Tactical;Value Creation ;Volume;City;Sustainability;4_Stadsdonut;Environmental
+;291;Groundwater levels;Groundwater levels;Natural Capital;Water;Abstraction;Here and now, Later;;;;;Sustainability;10_DBoom;Environmental
+41;292;Groundwater extraction;Groundwater extraction;Natural Capital;Water;Abstraction;Here and now, Later;;System Condition;Unit per capita;;Sustainability;6_RMBW;Environmental
+;293;Water quality;Water quality;Natural Capital;Water;Water quality;Later, Elsewhere;;;;;Sustainability;10_DBoom;Environmental
+;294;Water quality;Water quality;Natural Capital;Water;Water quality;Later, Elsewhere;;;;;Sustainability;9_SDGs;Environmental
+;295;Sewage charges;Sewage charges;Natural Capital;Water;Consumption;Here and now;;;;;Better admin;10_DBoom;Environmental
+89;296;Groundwater;Groundwater level;Natural Capital;Water;Resources;Here and now, Later;;Resource Flow;Volume;Neighborhood;Sustainability;1_StaatVDS;Environmental
+41;297;Excessive fertilizer use;Pollution of water with excess fertilizers;Natural Capital;Water;Emissions to water;Here and Now, Elsewhere;Tactical;Adverse Outcome;Amount substance;National;Sustainability;4_Stadsdonut;Environmental
+26;298;Quality bathing inland water ;Quality of bathing water in inland waters;Natural Capital;Water;Water quality;Here and now, Later;Strategic;System Condition;Index;;Sustainability;6_RMBW;Environmental
+40;299;Good chemical quality surface water;Good chemical quality surface water;Natural Capital;Water;Water quality;Here and now, Later;;System Condition;Index;;Sustainability;6_RMBW;Environmental
+;300;Children on social assistence;Children on social assistence;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Together;9_SDGs;Economic
+;301;Minimum income;Minimum income;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;10_DBoom;Economic
+10;302;Amount of working hours;Amount of working hours;Quality of Life;Consumption and Income;Income;Here and now, Later;;;;;Equal opp;1_StaatVDS;Economic
+24;303;Energy poverty;Energy poverty;Quality of Life;Consumption and Income;Distribution-Income- Total;Here and now;;Adverse Outcome;Population;City;Sustainability;7_Klimaat;Economic
+;304;Food packages;Food packages;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;9_SDGs;Economic
+65;305;Savings banks NL;Savings at banks in the Netherlands;Quality of Life;Consumption and Income;Distribution-Income- Total;Here and now;;System Condition;Monetary;;Growth;6_RMBW;Economic
+;306;Children on social assistence;Children on social assistence;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Together;10_DBoom;Economic
+15;307;Social assistance entitled;Social assistance entitled;Quality of Life;Consumption and Income;Distribution-Income;Here and now;Tactical;Adverse Outcome;Households;Neighborhood;Equal opp;4_Stadsdonut;Economic
+199;308;Smartphone Ownership;Smartphone Ownership;Quality of Life;Consumption and Income;Consumption;Here and now;;System Condition;People;Neighborhood;Equal opp;1_StaatVDS;Economic
+;309;Registered debts;Registered debts;Quality of Life;Consumption and Income;Debt;Here and now;;;;;Growth;9_SDGs;Economic
+9;310;Income level;Income level;Quality of Life;Consumption and Income;Income;Here and now;;System Condition;Monetary;Neighborhood;Equal opp;1_StaatVDS;Economic
+6;311;Food bank usage;Households using food bank;Quality of Life;Consumption and Income;Distribution-Income- Total;Here and now;Tactical;Adverse Outcome;Households;Neighborhood;Equal opp;4_Stadsdonut;Economic
+;312;Social assistence;Social assistence;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;9_SDGs;Economic
+;313;Income inequality;Income inequality;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;10_DBoom;Economic
+;314;Energy poverty;Energy poverty;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;9_SDGs;Economic
+;315;Energy poor in social housing;Energy poor in social housing;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;9_SDGs;Economic
+67;316;Low income-little wealth;Low income and little wealth;Quality of Life;Consumption and Income;Distribution-Income- Total;Here and now;;Adverse Outcome;Population;;Equal opp;6_RMBW;Economic
+;317;Problematic debts;Problematic debts;Quality of Life;Consumption and Income;Debt;Here and now;;;;;Growth;10_DBoom;Economic
+;318;Poverty;Poverty;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;10_DBoom;Economic
+;319;Minimum income;Minimum income;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;9_SDGs;Economic
+72;320;Employed permanent contract;% of employees in sector with permanent contract;Quality of Life;Consumption and Income;Income;Here and now;;;;City;Equal opp;8_Duurzame;Economic
+35;321;Life satis-financial resources;Life satisfaction - The financial resources of your household;Quality of Life;Consumption and Income;Subjective-material;Here and now;;System Condition;Index;;Equal opp;1_StaatVDS;Economic
+142;322;Poverty food bank;Poverty food bank;Quality of Life;Consumption and Income;Income;Here and now, Later;;;;Neighborhood;Equal opp;1_StaatVDS;Economic
+;323;Energy poverty;Energy poverty;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;9_SDGs;Economic
+;324;Energy ratio;Energy ratio;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;9_SDGs;Economic
+;325;Hourly wages per gender;Hourly wages per gender;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;10_DBoom;Economic
+175;326;Financial situation COVID-19;Income deteriorated during corona;Quality of Life;Consumption and Income;Income;Here and now;;System Condition;Households;Neighborhood;Growth;1_StaatVDS;Economic
+;327;Economic independence;Economic independence;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;10_DBoom;Economic
+;328;Disability benefits;Disability benefits;Quality of Life;Consumption and Income;Official Development Assistance;Here and now;;;;;Equal opp;10_DBoom;Economic
+;329;Social assistance;Social assistance;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;9_SDGs;Economic
+;330;Children in benefit families;Children in benefit families;Quality of Life;Consumption and Income;Distribution-Income;;;;;;Growth;11_BBV;Economic
+14;331;Average standardized income;Average standardized income;Quality of Life;Consumption and Income;Disposable income;Here and now;;;;City;Equal opp;2_BWMRA;Economic
+;332;Wealth inequality median;Wealth inequality median;Quality of Life;Consumption and Income;Savings;Here and now;;;;;Growth;9_SDGs;Economic
+3;333;Welfare benefits;Number of welfare benefits (bijstand);Quality of Life;Consumption and Income;Income;Here and now;;;;City;Equal opp;8_Duurzame;Economic
+4;334;TOZO 4;Number of TOZO 4 allocations;Quality of Life;Consumption and Income;Income;Here and now;;;;City;Equal opp;8_Duurzame;Economic
+;335;Economic independence per type;Economic independence per type;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;10_DBoom;Economic
+;336;Social assistance;Social assistance;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;10_DBoom;Economic
+;337;Problematic debts;Problematic debts;Quality of Life;Consumption and Income;Debt;Here and now;;;;;Growth;9_SDGs;Economic
+;338;Poverty;Poverty;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;9_SDGs;Economic
+;339;Standardized income;Standardized income;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;9_SDGs;Economic
+;340;Income distribution;Income distribution;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;9_SDGs;Economic
+;341;Economic independence per type;Economic independence per type;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;9_SDGs;Economic
+135;342;Economic independence;Economic independence;Quality of Life;Consumption and Income;Income;Here and now, Later;;;;Neighborhood;Equal opp;1_StaatVDS;Economic
+136;343;Wealth;Wealth;Quality of Life;Consumption and Income;Income;Here and now;;;Monetary;Neighborhood;Equal opp;1_StaatVDS;Economic
+;344;Hourly wages per gender;Hourly wages per gender;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;9_SDGs;Economic
+;345;Economic independence;Economic independence;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;9_SDGs;Economic
+;346;Income inequality;Income inequality;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;9_SDGs;Economic
+;347;Persons on welfare benefits;Persons on welfare benefits;Quality of Life;Consumption and Income;Official Development Assistance;;;;;;Growth;11_BBV;Economic
+4;348;Disposable income;Median disposable income;Quality of Life;Consumption and Income;Distribution-Income- Total;Here and now;Project outcome;System Condition;Monetary;Neighborhood;Equal opp;6_RMBW;Economic
+170;349;Income distribution;Income distribution;Quality of Life;Consumption and Income;Income;Here and now;;System Condition;Monetary;Neighborhood;Equal opp;1_StaatVDS;Economic
+171;350;Hourly wages;Hourly wages;Quality of Life;Consumption and Income;Income;Here and now;;System Condition;Monetary;Neighborhood;Equal opp;1_StaatVDS;Economic
+172;351;Household debt ;Household debt;Quality of Life;Consumption and Income;Debt;Here and now;;System Condition;Monetary;Neighborhood;Equal opp;1_StaatVDS;Economic
+;352;Income spent on housing;Income spent on housing;Quality of Life;Consumption and Income;Consumption;Here and now;;;;;Growth;10_DBoom;Economic
+;353;Gini coefficient;Gini coefficient;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;10_DBoom;Economic
+177;354;Collective Health Insurance;;Quality of Life;Consumption and Income;Income;Here and now;;System Condition;Households;;Equal opp;1_StaatVDS;Economic
+;355;Wealth inequality median;Wealth inequality median;Quality of Life;Consumption and Income;Savings;Here and now;;;;;Growth;10_DBoom;Economic
+140;356;Poverty - low income;Poverty - low income;Quality of Life;Consumption and Income;Income;Here and now, Later;;;;;Equal opp;1_StaatVDS;Economic
+137;357;Problematic debts;Problematic debts;Quality of Life;Consumption and Income;Income;Here and now, Later;;;;Neighborhood;Equal opp;1_StaatVDS;Economic
+;358;Gini coefficient;Gini coefficient;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;9_SDGs;Economic
+71;359;Employed 10-20;% of employees in sector with hourly wages between €10 and €20;Quality of Life;Consumption and Income;Income;Here and now;;;;City;Equal opp;8_Duurzame;Economic
+144;360;Reach of regulations and services;Reach of regulations and services for low incomes;Quality of Life;Consumption and Income;Income;Here and now, Later;;;;;Equal opp;1_StaatVDS;Economic
+73;361;Employed fulltime;%employees in sector with full-time job;Quality of Life;Consumption and Income;Income;Here and now;;;;City;Equal opp;8_Duurzame;Economic
+141;362;Poverty - minima;Poverty - minima;Quality of Life;Consumption and Income;Income;Here and now, Later;;;;;Equal opp;1_StaatVDS;Economic
+143;363;Making ends meet;Making ends meet;Quality of Life;Consumption and Income;Income;Here and now, Later;;;;city;Equal opp;1_StaatVDS;Economic
+138;364;Problematic debts self-rep;Problematic debts self-report;Quality of Life;Consumption and Income;Income;Here and now, Later;;;;Stadsdeel;Equal opp;1_StaatVDS;Economic
+;365;Energy poor in social housing;Energy poor in social housing;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;10_DBoom;Economic
+;366;Social assistance and benefits ;Social assistance and benefits ;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;9_SDGs;Economic
+;367;Registered debts;Registered debts;Quality of Life;Consumption and Income;Debt;Here and now;;;;;Growth;10_DBoom;Economic
+;368;Energy poverty;Energy poverty;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;10_DBoom;Economic
+;369;Standardized income;Standardized income;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;10_DBoom;Economic
+;370;Social assistence;Social assistence;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;10_DBoom;Economic
+;371;Food packages;Food packages;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;10_DBoom;Economic
+;372;Energy poverty;Energy poverty;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;10_DBoom;Economic
+;373;Social assistance and benefits ;Social assistance and benefits ;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;10_DBoom;Economic
+139;374;Social security benefits;Social security benefits;Quality of Life;Consumption and Income;Income;Here and now, Later;Trust;Bridging social capital;;Neighborhood;Equal opp;1_StaatVDS;Economic
+;375;Energy ratio;Energy ratio;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Equal opp;10_DBoom;Economic
+169;376;Disposable income;Disposable income;Quality of Life;Consumption and Income;Income;Here and now;;System Condition;Monetary;Neighborhood;Equal opp;1_StaatVDS;Economic
+5;377;Individual consumption;Individual consumption;Quality of Life;Consumption and Income;Consumption;Here and now;Project outcome;Adverse Outcome;Monetary;;Sustainability;6_RMBW;Economic
+;378;Youth with youth assistance;Youth with youth assistance;Quality of Life;Consumption and Income;Official Development Assistance;;;;;;Safety;11_BBV;Economic
+;379;Income spent on housing;Income spent on housing;Quality of Life;Consumption and Income;Consumption;Here and now;;;;;Growth;9_SDGs;Economic
+;380;Disability benefits;Disability benefits;Quality of Life;Consumption and Income;Official Development Assistance;Here and now;;;;;Equal opp;9_SDGs;Economic
+;381;Income distribution;Income distribution;Quality of Life;Consumption and Income;Distribution-Income;Here and now;;;;;Growth;10_DBoom;Economic
+70;382;Jobs other sustainability;% other jobs in sustainability sector;Quality of Life;Education;Knowledge of sustainable development;Here and now, Later;;;;City;Growth;8_Duurzame;Social
+57;383;Enrollments transports science;Transport Sciences and Logistics enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+30;384;Life satis-education;Life satisfaction - The education you received;Quality of Life;Education;Subjective-education;Here and now;;System Condition;Index;;Equal opp;1_StaatVDS;Social
+56;385;Enrollments health care;Health care enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+68;386;Low-educated;Low-educated population;Quality of Life;Education;Educational attainment;Here and now;;Adverse Outcome;Population;;Equal opp;6_RMBW;Social
+33;387;Enrollments mechanical eng. ;Mechanical Engineering enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+69;388;Jobs sustainability;% technical jobs in sustainability sector;Quality of Life;Education;Knowledge of sustainable development;Here and now;;;;City;Growth;8_Duurzame;Social
+152;389;School leavers;Early school leavers;Quality of Life;Education;Participation in education;Here and now, Later;;System Condition;People;City;Equal opp;1_StaatVDS;Social
+58;390;Employed Men;Number of men employed in sector;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+54;391;Enrollments land-forestry;Land and forestry enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+32;392;Enrollments construction;Construction enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+45;393;Enrollments AMS;Total enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+145;394;Diploma VMBO-HAVO-VWO;Diploma VMBO-HAVO-VWO;Quality of Life;Education;Educational attainment;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Social
+53;395;Enrollments environmental protection;Environmental protection enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+68;396;Staff HBO-WO;background staff with hbo and/or wo degree;Quality of Life;Education;Educational attainment;Here and now;;;;City;Growth;8_Duurzame;Social
+151;397;Student abstentism;Student abstentism;Quality of Life;Education;Participation in education;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Social
+11;398;Highly educated;Highly educated population;Quality of Life;Education;Educational attainment;Here and now, Later;Strategic;Value Creation ;Population;Neighborhood;Equal opp;6_RMBW;Social
+153;399;HBO-WO graduates;HBO-WO graduates;Quality of Life;Education;Educational attainment;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Social
+43;400;Enrollments secretarial work;Secretarial work and information services enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+149;401;Interships;Number of interships;Quality of Life;Education;Educational attainment;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Social
+146;402;MBO Students;MBO Students;Quality of Life;Education;Educational attainment;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Social
+55;403;Enrollments physics;Physical sciences enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+35;404;Enrollments metal prod.;Metal production enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+31;405;Enrollments installation tech. ;Installation technology enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+37;406;Enrollments AMS;Total enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+155;407;HBO-WO students;HBO-WO students;Quality of Life;Education;Educational attainment;Here and now;;System Condition;Building Units;City;Equal opp;1_StaatVDS;Social
+52;408;Enrollments art-audiovisual;Art education and audiovisual technology enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+39;409;Enrollments safety-environment;Safety and environment enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+38;410;Enrollments civil eng.;Civil engineering enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+134;411;Diploma PS Advice;Diplomas PS Advice;Quality of Life;Education;Educational attainment;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Social
+41;412;Enrollments logistics ; Logistics enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+27;413;Enrollments AMS;Total enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+28;414;Enrollments electrical eng.;Electrical engineering enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+34;415;Enrollments chemical lab.;Process and chemical laboratory technology enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+44;416;Enrollments accounting-business;Accounting and business administration enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+156;417;Literacy;Literacy rate;Quality of Life;Education;Educational attainment;Here and now, Later;;System Condition;People;City;Equal opp;1_StaatVDS;Social
+157;418;Adult education;Adult education;Quality of Life;Education;Educational attainment;Here and now, Later;;System Condition;Building Units;City;Equal opp;1_StaatVDS;Social
+63;419;Employed highly educated women;%women employed in highly educated sector;Quality of Life;Education;Lifelong learning;Here and now;;;;City;Growth;8_Duurzame;Social
+67;420;Staff MBO;Background of staff with mbo diploma,%mbo1,%mbo2,%mbo3,%mbo4;Quality of Life;Education;Educational attainment;Here and now;;;;City;Growth;8_Duurzame;Social
+132;421;HS Students;High school students;Quality of Life;Education;Educational attainment;Here and now;;System Condition;People;Neighborhood;Equal opp;1_StaatVDS;Social
+51;422;Enrollments social science;Social Sciences enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+50;423;Enrrolments informatics;Informatics enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+30;424;Enrollments EIC;Engineering, industry and construction enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+40;425;Enrollments agriculture-natural;Agriculture and natural environment enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+147;426;Diploma MBO;Diploma MBO;Quality of Life;Education;Educational attainment;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Social
+42;427;Enrollments IT;IT enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+47;428;Enrollments technical services;Engineering and technical services enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+29;429;Enrollments product. electrical eng.;Production engineering enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+133;430;HS per school type;High school students per school type;Quality of Life;Education;Educational attainment;Here and now;;System Condition;People;Neighborhood;Equal opp;1_StaatVDS;Social
+46;431;Enrollments architecture-construction;Architecture and construction enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+16;432;Vacancies teaching school;Vacancies teaching school;Quality of Life;Education;Distribution-Education;Here and now;;Value Creation ;People;;Equal opp;4_Stadsdonut;Social
+148;433;MBO Grad Job;MBO Grad Job;Quality of Life;Education;Educational attainment;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Social
+36;434;Enrollments automotive;Automotive Aircraft and shipping industry enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+131;435;Primary Students;Primary students;Quality of Life;Education;Educational attainment;Here and now;;System Condition;People;Neighborhood;Equal opp;1_StaatVDS;Social
+49;436;Enrollments business-Administration;Business and Administration enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+61;437;Employed highly educated;% of employees in sector highly educated;Quality of Life;Education;Lifelong learning;Here and now;;;;City;Growth;8_Duurzame;Social
+59;438;Employed Woman;Number of women employed in sector;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+130;439;School weighting;School weighting;Quality of Life;Education;Educational attainment;Here and now, Later;;System Condition;Index;City;Equal opp;1_StaatVDS;Social
+48;440;Enrollments AMS;Total enrolments in Amsterdam per year;Quality of Life;Education;Participation in education;Here and now;;;;City;Growth;8_Duurzame;Social
+127;441;Primary Schools;Schools for primary education;Quality of Life;Education;Participation in education;Here and now;;System Condition;People;City;Growth;1_StaatVDS;Social
+128;442;Secondary Schools;Schools for secondary education;Quality of Life;Education;Participation in education;Here and now;;System Condition;People;City;Growth;1_StaatVDS;Social
+62;443;Employed medium educated;% of employees in sector with medium level of education;Quality of Life;Education;Educational attainment;Here and now;;;;City;Growth;8_Duurzame;Social
+60;444;Employed technical background;% of employees in sector with technical background;Quality of Life;Education;Educational attainment;Here and now;;;;City;Growth;8_Duurzame;Social
+129;445;School Motives PS14;School choose motives primary schools pupils 14;Quality of Life;Education;Participation in education;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Social
+126;446;SE Schools;Schools for special education;Quality of Life;Education;Participation in education;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Social
+125;447;Preschool toddlers;Pre-school participation of toddlers with and without target group indication;Quality of Life;Education;Participation in education;Here and now;;System Condition;People;City;Together;1_StaatVDS;Social
+107;448;Hospitalizations COVID-19;hospitalizations due to COVID-19;Quality of Life;Health;COVID-19;Here and now;;Adverse Outcome;People;Neighborhood;Safety;1_StaatVDS;Social
+;449;Long-term illness;Long-term illness;Quality of Life;Health;Chronic diseases;Here and now;;;;;Safety;10_DBoom;Social
+106;450;Adults COVID-19;COVID-19 in adults;Quality of Life;Health;COVID-19;Here and now;;Adverse Outcome;People;Neighborhood;Safety;1_StaatVDS;Social
+;451;Perceived health;Perceived health;Quality of Life;Health;Subjective-health;Here and now;;;;;Safety;10_DBoom;Social
+;452;Vulnerable population;Vulnerable population;Quality of Life;Health;Chronic diseases;Here and now;;;;;Equal opp;9_SDGs;Social
+117;453;Heavy drinkers;people who are heavily drinkers;Quality of Life;Health;Smoking-Drinking;Here and now;;Adverse Outcome;People;City;Safety;1_StaatVDS;Social
+105;454;Positive COVID-19;Positive test for COVID-19;Quality of Life;Health;COVID-19;Here and now;;Adverse Outcome;People;Neighborhood;Safety;1_StaatVDS;Social
+5;455;Experienced nuisance;Experienced nuisance;Quality of Life;Health;Nuisance;Here and now;;;;City;Safety;2_BWMRA;Social
+6;456;Healthy life exp. men;Healthy life expectancy men;Quality of Life;Health;Life expectancy;Here and now, Later;Strategic;System Condition;Time;;Equal opp;6_RMBW;Social
+66;457;Experienced health;Experienced health;Quality of Life;Health;Healthy life expectancy;Here and now;;System Condition;Index;;Equal opp;6_RMBW;Social
+7;458;Healthy life exp.women;Healthy life expectancy women;Quality of Life;Health;Life expectancy;Here and now, Later;Strategic;System Condition;Time;;Equal opp;6_RMBW;Social
+116;459;Smoking;people who smokes;Quality of Life;Health;Smoking-Drinking;Here and now;;Adverse Outcome;People;City;Safety;1_StaatVDS;Social
+18;460;Mental Health;Mental Health;Quality of Life;Health;Mental health;Here and now;;;;City;Safety;2_BWMRA;Social
+2;461;Depression Anxiety;Depression and Anxiety;Quality of Life;Health;Mental health;Here and now;;Adverse Outcome;People;;Safety;4_Stadsdonut;Social
+71;462;Severe limitations health ;Severe long-term limitations due to health problems;Quality of Life;Health;Healthy life expectancy;Here and now;;Adverse Outcome;;;Equal opp;6_RMBW;Social
+103;463;Perceived health;Perceived health;Quality of Life;Health;Subjective-health;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Social
+110;464;Corona Vaccine Pop.;people with Corona vaccine;Quality of Life;Health;COVID-19;Here and now;;System Condition;People;Neighborhood;Safety;1_StaatVDS;Social
+109;465;Deaths COVID-19;deaths due to COVID-19;Quality of Life;Health;COVID-19;Here and now;;Adverse Outcome;People;Neighborhood;Safety;1_StaatVDS;Social
+;466;Drug users;Drug users;Quality of Life;Health;Lifestyle-Exercise;Here and now;;;;;Safety;10_DBoom;Social
+121;467;Received help health;Amsterdam residents aged 18 and older have had help with household activities, personal care and/or nursing in the past twelve months because of health;Quality of Life;Health;Distribution-Health;Here and now;;System Condition;People;City;Together;1_StaatVDS;Social
+228;468;Nuisance to people;Nuisance to people;Quality of Life;Health;Nuisance;Here and now;;System Condition;Index;Neighborhood;Safety;1_StaatVDS;Social
+;469;Noise levels;Noise levels;Quality of Life;Health;Nuisance;Here and now;;;;;Safety;9_SDGs;Social
+32;470;Air quality regulation;Health impacts of air pollution;Quality of Life;Health;Mortality;Here and now;Tactical;Adverse Outcome;People;National;Safety;4_Stadsdonut;Social
+;471;Medical treatment;Medical treatment;Quality of Life;Health;Health care facilities;Here and now;;;;;Safety;9_SDGs;Social
+;472;Youth with youth protection;Youth with youth protection;Quality of Life;Health;Health care facilities;;;;;;Safety;11_BBV;Social
+;473;Long-term illness;Long-term illness;Quality of Life;Health;Chronic diseases;Here and now;;;;;Safety;9_SDGs;Social
+114;474;Fear-Stress-Gloom;people feeling of fear, stress and gloom;Quality of Life;Health;Mental health;Here and now;;Adverse Outcome;People;City;Equal opp;1_StaatVDS;Social
+111;475;MH: Down and pessimistic;Mental health: number of people feeling down and pessimistic;Quality of Life;Health;Mental health;Here and now;;Adverse Outcome;People;City;Equal opp;1_StaatVDS;Social
+;476;Drug users;Drug users;Quality of Life;Health;Lifestyle-Exercise;Here and now;;;;;Safety;9_SDGs;Social
+167;477;Disability benefits;Unemployed labor force: Disability benefits;Quality of Life;Health;Disability;Here and now;;Value Creation ;People;City;Equal opp;1_StaatVDS;Social
+120;478;Physical activity COVID-19;people who maintain active during coronavirus pandemic;Quality of Life;Health;COVID-19;Here and now;;System Condition;People;City;Safety;1_StaatVDS;Social
+;479;Medical treatment;Medical treatment;Quality of Life;Health;Health care facilities;Here and now;;;;;Safety;10_DBoom;Social
+115;480;Loneliness;people feeling lonely;Quality of Life;Health;Mental health;Here and now;;Adverse Outcome;People;City;Together;1_StaatVDS;Social
+108;481;Adults antibodies;adults with antibodies in the blood;Quality of Life;Health;COVID-19;Here and now;;System Condition;People;Neighborhood;Safety;1_StaatVDS;Social
+226;482;Nuisance Index;Nuisance Index;Quality of Life;Health;Nuisance;Here and now;;System Condition;Index;Neighborhood;Safety;1_StaatVDS;Social
+;483;Smokers;Smokers;Quality of Life;Health;Smoking-Drinking;Here and now;;;;;Safety;10_DBoom;Social
+;484;Perceived health;Perceived health;Quality of Life;Health;Subjective-health;Here and now;;;;;Safety;9_SDGs;Social
+113;485;MH: energetic;Mental health: number of people feeling energetic;Quality of Life;Health;Mental health;Here and now;;;;;Equal opp;1_StaatVDS;Social
+;486;Vulnerable population;Vulnerable population;Quality of Life;Health;Chronic diseases;Here and now;;;;;Equal opp;10_DBoom;Social
+;487;Noise levels;Noise levels;Quality of Life;Health;Nuisance;Here and now;;;;;Safety;10_DBoom;Social
+;488;Non-athletes;Non-athletes;Quality of Life;Health;Lifestyle-Exercise;;;;;;Growth;11_BBV;Social
+112;489;MH: Calm and at ease;Mental health: number of people feeling calm and at ease;Quality of Life;Health;Mental health;Here and now;;;;;Equal opp;1_StaatVDS;Social
+49;490;Noise pollution;Noise pollution;Quality of Life;Health;Healthy life expectancy;Here and now;;Adverse Outcome;Index;City;Safety;5_EVMRA;Social
+12;491;Perceived health;Perceived health;Quality of Life;Health;Perceived health;Here and now;;;;City;Safety;2_BWMRA;Social
+9;492;Overweight;Overweight;Quality of Life;Health;Obesity;Here and now, Later;;;;City;Safety;2_BWMRA;Social
+;493;Smokers;Smokers;Quality of Life;Health;Smoking-Drinking;Here and now;;;;;Safety;9_SDGs;Social
+17;494;Satisfaction home;Satisfaction with home;Quality of Life;Housing;Subjective;Here and now;;System Condition;Units;Neighborhood;Equal opp;1_StaatVDS;Social
+;495;Newly built homes;Newly built homes;Quality of Life;Housing;Housing stock;;;;;;Growth;11_BBV;Social
+12;496;Housing stock;Housing stock;Quality of Life;Housing;Housing stock;Here and now;;System Condition;People;Neighborhood;Growth;1_StaatVDS;Social
+33;497;House selling time;Housing selling time;Quality of Life;Housing;Housing affordability;Here and now;;Adverse Outcome;Time;Neighborhood;Growth;5_EVMRA;Social
+4;498;Social housing reg.;Social housing registration;Quality of Life;Housing;Housing stock;Here and now;;Value Creation ;Units;;Equal opp;4_Stadsdonut;Social
+38;499;Social house waiting time;Social housing waiting time;Quality of Life;Housing;Housing stock;Here and now;Strategic;Adverse Outcome;Time;Neighborhood;Equal opp;5_EVMRA;Social
+25;500;Perception of housing costs;Perception of housing costs;Quality of Life;Housing;Housing affordability;Here and now;;;;City;Equal opp;2_BWMRA;Social
+16;501;Housing purchase price;Housing purchase price;Quality of Life;Housing;Housing price;Here and now;;System Condition;Monetary;Neighborhood;Equal opp;1_StaatVDS;Social
+37;502;Liberalized housing;Free sector rental stock;Quality of Life;Housing;Housing stock;Here and now;;System Condition;Population;Neighborhood;Growth;5_EVMRA;Social
+16;503;Satisfaction home;Satisfaction with home;Quality of Life;Housing;Quality of housing;Here and now;Strategic;System Condition;Index;;Equal opp;6_RMBW;Social
+7;504;VvE homes;VvE homes;Quality of Life;Housing;Investments in housing;Here and now;;Value Creation ;Population;City;Sustainability;7_Klimaat;Social
+;505;Municipal housing costs  multi-person household;Municipal housing costs  multi-person household;Quality of Life;Housing;Housing affordability;;;;;;Growth;11_BBV;Social
+;506;Average rent free market;Average rent free market;Quality of Life;Housing;Housing cost;Here and now;;;;;Growth;9_SDGs;Social
+;507;Average rent social housing;Average rent social housing;Quality of Life;Housing;Housing cost;Here and now;;;;;Growth;10_DBoom;Social
+;508;Average housing price;Average housing price;Quality of Life;Housing;Housing cost;Here and now;;;;;Growth;10_DBoom;Social
+19;509;House size fit;House size fit;Quality of Life;Housing;Quality of housing;Here and now;;System Condition;Index;Neighborhood;Equal opp;1_StaatVDS;Social
+23;510;Energy cost;Energy cost;Quality of Life;Housing;Housing affordability;Here and Now, Elsewhere;;Resource Flow;Units;Neighborhood;Sustainability;1_StaatVDS;Social
+34;511;Properties sold;Properties sold;Quality of Life;Housing;Housing stock;Here and now, Later;;Value Creation ;Population;Neighborhood;Growth;5_EVMRA;Social
+;512;Mean WOZ ;Mean WOZ ;Quality of Life;Housing;Housing stock;;;;;;Growth;11_BBV;Social
+15;513;Housing rental prices;Housing rental prices;Quality of Life;Housing;Housing affordability;Here and now;;System Condition;Monetary;Neighborhood;Equal opp;1_StaatVDS;Social
+31;514;Life satis-housing situation;Life satisfaction - Your housing situation;Quality of Life;Housing;Subjective-Housing;Here and now;;System Condition;Index;;Equal opp;1_StaatVDS;Social
+22;515;Willing invest energy measures;Willing to invest in energy measures;Quality of Life;Housing;Investments in housing;Here and Now, Elsewhere;;Value Creation ;Units;City;Sustainability;1_StaatVDS;Social
+15;516;Quality housing;Quality of housing;Quality of Life;Housing;Quality of housing;Here and now;Strategic;System Condition;Index;Neighborhood;Equal opp;6_RMBW;Social
+;517;Homelessness;Homelessness;Quality of Life;Housing;Slums-rough sleepers;Here and now;;;;;Equal opp;9_SDGs;Social
+6;518;VvE supported;VvE supported;Quality of Life;Housing;Investments in housing;Here and now;;Value Creation ;Population;City;Sustainability;7_Klimaat;Social
+13;519;Construction type;Construction type (housing stock);Quality of Life;Housing;Housing stock;Here and now;;System Condition;Units;Neighborhood;Equal opp;1_StaatVDS;Social
+3;520;Social rent;Registered social rent;Quality of Life;Housing;Housing stock;Here and now;;Adverse Outcome;People;;Equal opp;4_Stadsdonut;Social
+;521;Total housing stock;Total housing stock;Quality of Life;Housing;Housing stock;Here and now;;;;;Growth;9_SDGs;Social
+35;522;Housing stock;Housing stock;Quality of Life;Housing;Housing stock;Here and now;;System Condition;Population;Neighborhood;Growth;5_EVMRA;Social
+;523;Average housing price;Average housing price;Quality of Life;Housing;Housing cost;Here and now;;;;;Growth;9_SDGs;Social
+;524;Satisfaction housing;Satisfaction housing;Quality of Life;Housing;Subjective-Housing;Here and now;;;;;Growth;10_DBoom;Social
+20;525;Energy efficiency houses;Energy efficiency (energy label);Quality of Life;Housing;Quality of housing;Here and now, Later, Elsewhere;;Value Creation ;Units;Neighborhood;Sustainability;1_StaatVDS;Social
+;526;Average rent social housing;Average rent social housing;Quality of Life;Housing;Housing cost;Here and now;;;;;Growth;9_SDGs;Social
+;527;Satisfaction housing;Satisfaction housing;Quality of Life;Housing;Subjective-Housing;Here and now;;;;;Growth;9_SDGs;Social
+;528;Total housing stock;Total housing stock;Quality of Life;Housing;Housing stock;Here and now;;;;;Growth;10_DBoom;Social
+7;529;Satisfaction with home;Satisfaction with home;Quality of Life;Housing;Quality of housing;Here and now;;;;City;Safety;2_BWMRA;Social
+21;530;Houses with solar panels;Houses with solar panels;Quality of Life;Housing;Quality of housing;Here and Now, Elsewhere;;Value Creation ;Units;City;Sustainability;1_StaatVDS;Social
+;531;Average rent free market;Average rent free market;Quality of Life;Housing;Housing cost;Here and now;;;;;Growth;10_DBoom;Social
+25;532;Satisfaction neighborhood ;Satisfaction with neighborhood to grow old;Quality of Life;Housing;Subjective;Here and now;;System Condition;Units;Neighborhood;Safety;1_StaatVDS;Social
+;533;Homelessness;Homelessness;Quality of Life;Housing;Slums-rough sleepers;Here and now;;;;;Equal opp;10_DBoom;Social
+;534;Amount of shelters;Amount of shelters;Quality of Life;Housing;Slums-rough sleepers;Here and now;;;;;Together;9_SDGs;Social
+;535;Amount of shelters;Amount of shelters;Quality of Life;Housing;Slums-rough sleepers;Here and now;;;;;Together;10_DBoom;Social
+36;536;Social house stock;Social housing stock;Quality of Life;Housing;Housing stock;Here and now;;System Condition;Population;Neighborhood;Growth;5_EVMRA;Social
+39;537;Rental prices;Rental prices;Quality of Life;Housing;Housing affordability;Here and now, Later;Tactical;Adverse Outcome;Monetary;Neighborhood;Equal opp;5_EVMRA;Social
+26;538;Quality of housing;Quality of housing;Quality of Life;Housing;Quality of housing;Here and now;;;;City;Safety;2_BWMRA;Social
+;539;Municipal housing costs single-person household;Municipal housing costs single-person household;Quality of Life;Housing;Housing affordability;;;;;;Growth;11_BBV;Social
+200;540;Digital freedom;Digital freedom;Quality of Life;Institutional;Trust in institutions;Here and now;;System Condition;People;Neighborhood;Equal opp;1_StaatVDS;Social
+201;541;Digital barriers-freedom;Barriers to have digital freedom when using digital resources;Quality of Life;Institutional;Trust in institutions;Here and now;;System Condition;People;Neighborhood;Equal opp;1_StaatVDS;Social
+88;542;Internsips;Number of internships;Quality of Life;Labour;Distribution-Labour;Here and now;;;;City;Equal opp;8_Duurzame;Economic
+26;543;Sustainable jobs;Sustainable jobs;Quality of Life;Labour;Distribution-Labour-;Here and now, Later;;Value Creation ;Population;City;Sustainability;7_Klimaat;Economic
+150;544;Employed teachers;Employed teachers;Quality of Life;Labour;Employment rate;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Economic
+87;545;Apprenticeships;Number of apprenticeships;Quality of Life;Labour;Distribution-Labour;Here and now;;;;City;Equal opp;8_Duurzame;Economic
+9;546;Long-term unemployment;Long-term unemployment;Quality of Life;Labour;Employment rate;Here and now;Strategic;Adverse Outcome;Population;;Equal opp;6_RMBW;Economic
+161;547;Employed - Flexible;Total employed persons by type of contract ;Quality of Life;Labour;Employment rate;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Economic
+64;548;Employed MRA;% employees in sector from MRA;Quality of Life;Labour;Employment rate;Here and now;;;;City;Growth;8_Duurzame;Economic
+1;549;Unemployed;Share of unemployed;Quality of Life;Labour;Unemployment;Here and now;;;;City;Equal opp;8_Duurzame;Economic
+65;550;Employed AMS;% employees in sector from A'dam;Quality of Life;Labour;Employment rate;Here and now;;;;City;Growth;8_Duurzame;Economic
+21;551;Employment;Employment;Quality of Life;Labour;Employment rate;Here and now;;;;City;Growth;2_BWMRA;Economic
+165;552;Unemployment rate;Unemployment rate;Quality of Life;Labour;Unemployment;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Economic
+160;553;Employed - Payroll;Total employed persons by type of contract ;Quality of Life;Labour;Employment rate;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Economic
+163;554;ZZPERS;Self employed;Quality of Life;Labour;Employment rate;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Economic
+26;555;Social assistance - sustainability exp - 2;Number of people in unemployment or social assistance in region with work experience in a sector related to the sustainability sector ;Quality of Life;Labour;Unemployment;Here and now, Later;;;;Regional;Growth;8_Duurzame;Economic
+158;556;Labor force;Labor force;Quality of Life;Labour;Labour force;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Economic
+7;557;Labor force persons;Labor force - persons;Quality of Life;Labour;Employment rate;Here and now;Strategic;System Condition;Population;City;Growth;5_EVMRA;Economic
+10;558;Net employment rate;Net employment rate;Quality of Life;Labour;Employment rate;Here and now;Project outcome;System Condition;Population;;Equal opp;6_RMBW;Economic
+11;559;Main occupation;Main occupation;Quality of Life;Labour;Distribution-Labour;Here and now;;System Condition;People;Neighborhood;Equal opp;1_StaatVDS;Economic
+12;560;Sustainability jobs MRA;Number of sustainability jobs in MRA;Quality of Life;Labour;Employment rate;Here and now, Later;;;;Regional;Growth;8_Duurzame;Economic
+168;561;Unemployment benefits;Unemployed labor force: Unemployment benefits;Quality of Life;Labour;Unemployment;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Economic
+166;562;Social assistance;"Unemployed labor force: Social assistance. if the household consists
+of two or more adults (with or without children), the
+benefit is in the name of one of the adults.";Quality of Life;Labour;Unemployment;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Economic
+66;563;Employed 45+;% employees in sector 45+;Quality of Life;Labour;Employment rate;Here and now;;;;City;Growth;8_Duurzame;Economic
+18;564;Tight electricians-electronics;Tightness indicator Electricians and electronics mechanics;Quality of Life;Labour;Employment rate;Here and now, Later;;;;Regional;Growth;8_Duurzame;Economic
+21;565;Tight production manager;Tightness indicator Production managers industry and construction;Quality of Life;Labour;Employment rate;Here and now, Later;;;;Regional;Growth;8_Duurzame;Economic
+20;566;Unemployment;Unemployment;Quality of Life;Labour;Employment rate;Here and now;;;;City;Growth;2_BWMRA;Economic
+4;567;Gross employment;Gross employment;Quality of Life;Labour;Employment rate;Here and now;Strategic;System Condition;Population;City;Growth;5_EVMRA;Economic
+63;568;Sustainable jobs;Sustainable jobs;Quality of Life;Labour;Distribution-Labour-;Here and now, Later;;Value Creation ;Units;;Sustainability;1_StaatVDS;Economic
+25;569;Social assistance - sustainability edu.;Number of people in unemployment or social assistance in region with an education related to sustainable jobs;Quality of Life;Labour;Unemployment;Here and now, Later;;;;Regional;Growth;8_Duurzame;Economic
+11;570;Sustainability jobs AMS;Number of sustainability jobs in Amsterdam             ;Quality of Life;Labour;Employment rate;Here and now, Later;;;;City;Growth;8_Duurzame;Economic
+164;571;Tension indicator labor market;Tension indicator labor market;Quality of Life;Labour;Unemployment;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Economic
+162;572;Potential labor force ;Potential labor force by year, age group and forecast;Quality of Life;Labour;Labour force;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Economic
+69;573;Unemployment;Unemployment;Quality of Life;Labour;Employment rate;Here and now;;Adverse Outcome;Population;;Equal opp;6_RMBW;Economic
+2;574;Unemployed benefits;Number of unemployment benefits (ww);Quality of Life;Labour;Unemployment;Here and now;;;;City;Equal opp;8_Duurzame;Economic
+60;575;Employed persons;Total employed persons;Quality of Life;Labour;Employment rate;Here and now;;System Condition;People;;Growth;1_StaatVDS;Economic
+15;576;Self-employed per businesses;Share of self-employed persons in total business establishments   ;Quality of Life;Labour;Employment rate;;;;;City;Growth;8_Duurzame;Economic
+20;577;Tight machine fitters;Tightness indicator Machine fitters;Quality of Life;Labour;Employment rate;Here and now, Later;;;;Regional;Growth;8_Duurzame;Economic
+19;578;Tight electrical engine.;Tightness indicator Electrical engineers;Quality of Life;Labour;Employment rate;Here and now, Later;;;;Regional;Growth;8_Duurzame;Economic
+2;579;Hours worked;Hours worked;Quality of Life;Labour;Hours worked;Here and now;Strategic;System Condition;Time;City;Growth;5_EVMRA;Economic
+23;580;Social assistance;Number of persons on unemployment benefit and social assistance in region;Quality of Life;Labour;Unemployment;Here and now;;;;Regional;Equal opp;8_Duurzame;Economic
+24;581;Social assistance - sustainability exp - 1;Number of people on unemployment or social assistance in region with work experience in the sustainability sector;Quality of Life;Labour;Unemployment;Here and now, Later;;;;Regional;Growth;8_Duurzame;Economic
+22;582;Tight technicians construction-nature;Tightness indicator Technicians in construction and nature;Quality of Life;Labour;Employment rate;Here and now, Later;;;;Regional;Growth;8_Duurzame;Economic
+17;583;Tight sustainable professions;Tightness indicator sustainabile professions                                     ;Quality of Life;Labour;Employment rate;Here and now, Later;;;;Regional;Growth;8_Duurzame;Economic
+14;584;Job satisfaction;Job satisfaction (employees);Quality of Life;Labour;Subjective;Here and now;Strategic;System Condition;Index;;Equal opp;6_RMBW;Economic
+8;585;Labor force employees;Labor force - employees;Quality of Life;Labour;Employment rate;Here and now;Strategic;System Condition;Population;City;Growth;5_EVMRA;Economic
+70;586;Poverty risk self-employed;Poverty risk self-employed persons;Quality of Life;Labour;Employment rate;Here and now;;Adverse Outcome;Population;;Equal opp;6_RMBW;Economic
+73;587;labor force;labor force;Quality of Life;Labour;Distribution-Labour-;Here and now, Later;;System Condition;Population;;Growth;6_RMBW;Economic
+62;588;Sustainable jobs rate;Employment rate in sustainability jobs ;Quality of Life;Labour;Distribution-Labour-;Here and now, Later;;Value Creation ;People;;Sustainability;1_StaatVDS;Economic
+1;589;Employment rate;Employment rate;Quality of Life;Labour;Employment rate;Here and now;Strategic;System Condition;Population;City;Growth;5_EVMRA;Economic
+159;590;Labor participation;Net labor participation ;Quality of Life;Labour;Labour force;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Economic
+;591;No of listed monuments and sites;No of listed monuments and sites;Quality of Life;Land and Ecosystems ;Landscape quality;Here and now;;;;;Better admin;9_SDGs;Environmental
+;592;No of listed monuments and sites;No of listed monuments and sites;Quality of Life;Land and Ecosystems ;Landscape quality;Here and now;;;;;Better admin;10_DBoom;Environmental
+190;593;Hobbies Activities;Hobbies Activities;Quality of Life;Work Life Balance;Time use;Here and now;;System Condition;People;Neighborhood;Together;1_StaatVDS;Social
+13;594;Culture children;culture for children;Quality of Life;Work Life Balance;Time use;Here and now;;Value Creation ;People;;Equal opp;4_Stadsdonut;Social
+198;595;Sports limitations-Corona;Limitation on practicing sports due corona;Quality of Life;Work Life Balance;Sports;Here and now;;Adverse Outcome;People;Neighborhood;Safety;1_StaatVDS;Social
+197;596;New Sports-Corona;New sports during corona;Quality of Life;Work Life Balance;Sports;Here and now;;System Condition;People;Neighborhood;Safety;1_StaatVDS;Social
+55;597;Sports activities;Sports - Sports activities;Quality of Life;Work Life Balance;Cultural;Here and now;;System Condition;Units;Neighborhood;Together;1_StaatVDS;Social
+189;598;Satisfaction IO;Satisfaction indoor outdoor with leisure activities;Quality of Life;Work Life Balance;Subjective-Leisure;Here and now;;System Condition;People;Neighborhood;Freedom;1_StaatVDS;Social
+191;599;Membership Associations;Membership Associations and Organizations;Quality of Life;Work Life Balance;Time use;Here and now;;System Condition;People;Neighborhood;Together;1_StaatVDS;Social
+195;600;Membership Sports;Membership Sport Associations;Quality of Life;Work Life Balance;Sports;Here and now;;System Condition;People;Neighborhood;Together;1_StaatVDS;Social
+12;601;Satisfaction leisure;Satisfaction with leisure;Quality of Life;Work Life Balance;Time use;Here and now;Strategic;Value Creation ;Population;;Freedom;6_RMBW;Social
+193;602;Nightlife-Cultural;Nightlife-Cultural;Quality of Life;Work Life Balance;Cultural;Here and now;;System Condition;People;Neighborhood;Together;1_StaatVDS;Social
+196;603;Weekly sports;Weekly sports;Quality of Life;Work Life Balance;Sports;Here and now;;System Condition;People;Neighborhood;Together;1_StaatVDS;Social
+206;604;Holidays year;Holidays year;Quality of Life;Work Life Balance;Time use;Here and now;;System Condition;People;City;Equal opp;1_StaatVDS;Social
+54;605;Sports weekly;Sports - Sports per week;Quality of Life;Work Life Balance;Cultural;Here and now;;System Condition;Units;Neighborhood;Together;1_StaatVDS;Social
+3;606;Travel time commuting;Travel time commuting;Quality of Life;Work Life Balance;Time use;Here and now;;;;City;Equal opp;2_BWMRA;Social
+49;607;Leisure Associations;Leisure activities - Associations;Quality of Life;Work Life Balance;Time use;Here and now;;System Condition;Units;Neighborhood;Together;1_StaatVDS;Social
+194;608;Visits entertainment;Visits entertainment;Quality of Life;Work Life Balance;Cultural;Here and now;;System Condition;People;Neighborhood;Together;1_StaatVDS;Social
+47;609;Leisure Hobbies;Leisure activities - Hobbies;Quality of Life;Work Life Balance;Time use;Here and now;;System Condition;Units;Neighborhood;Together;1_StaatVDS;Social
+203;610;Social media usage;Social media usage;Quality of Life;Work Life Balance;Time use;Here and now;;System Condition;People;City;Together;1_StaatVDS;Social
+119;611;Physical activity;people that meet excercise guidelines;Quality of Life;Work Life Balance;Sports;Here and now;;System Condition;People;City;Safety;1_StaatVDS;Social
+192;612;Membership Library;Membership Library;Quality of Life;Work Life Balance;Time use;Here and now;;System Condition;People;Neighborhood;Together;1_StaatVDS;Social
+48;613;Leisure Entertainment;Leisure activities - Type entertainment;Quality of Life;Work Life Balance;Time use;Here and now;;System Condition;Units;Neighborhood;Together;1_StaatVDS;Social
+;614;Satisfaction road safety;Satisfaction road safety;Quality of Life;Transport;Subjective-Mobility;Here and now;;;;;Growth;10_DBoom;Social
+;615;Cycling city score;Cycling city score;Quality of Life;Transport;Transport;Here and now;;;;;Better admin;9_SDGs;Social
+99;616;satisfaction biking ;satisfaction with biking in the city;Quality of Life;Transport;Transport;Here and now;;;;City;Sustainability;1_StaatVDS;Social
+;617;Road deaths and injuries;Road deaths and injuries;Quality of Life;Transport;Transport;Here and now;;;;;Safety;9_SDGs;Social
+;618;Satisfaction bicycle use;Satisfaction bicycle use;Quality of Life;Transport;Subjective-Mobility;Here and now;;;;;Freedom;9_SDGs;Social
+;619;Car ownership;Car ownership;Quality of Life;Transport;Transport;Here and now;;;;;Growth;9_SDGs;Social
+;620;Road deaths and injuries;Road deaths and injuries;Quality of Life;Transport;Transport;Here and now;;;;;Safety;10_DBoom;Social
+;621;Satisfaction public transport;Satisfaction public transport;Quality of Life;Transport;Subjective-Mobility;Here and now;;;;;Growth;10_DBoom;Social
+176;622;Stadpas;;Quality of Life;Transport;Transport;Here and now;;System Condition;Households;;Equal opp;1_StaatVDS;Social
+;623;Trips per mode;Trips per mode;Quality of Life;Transport;Transport;Here and now;;;;;Growth;9_SDGs;Social
+;624;Other transportation accidents;Other transportation accidents involving an injured bicyclist;Quality of Life;Transport;Transport;Here and now;;;;;Safety;11_BBV;Social
+93;625;Electric car ownership;Electric car ownership;Quality of Life;Transport;Transport;Here and now, Later;;;;City;Sustainability;1_StaatVDS;Social
+29;626;inbound-outbound commute;inbound-outbound commute;Quality of Life;Transport;Transport;Here and now;;System Condition;Index;City;Growth;5_EVMRA;Social
+100;627;Bike parking capacity ;Bicycle parking capacity ;Quality of Life;Transport;Transport;Here and now;;System Condition;Index;Neighborhood;Sustainability;1_StaatVDS;Social
+12;628;Public transport;Public transport rating;Quality of Life;Transport;Transport;Here and now;;System Condition;Index;;Sustainability;4_Stadsdonut;Social
+11;629;Trips bicyle;Trips bicyle;Quality of Life;Transport;Transport;Here and now;;System Condition;Index;;Sustainability;4_Stadsdonut;Social
+;630;Cycling city score;Cycling city score;Quality of Life;Transport;Transport;Here and now;;;;;Better admin;10_DBoom;Social
+6;631;Accessibility;Accessibility;Quality of Life;Transport;Accessibility;Here and now;;;;City;Equal opp;2_BWMRA;Social
+98;632;Satisfaction bicycle parking;Satisfaction bicycle parking capacity;Quality of Life;Transport;Transport;Here and now;;System Condition;Index;City;Sustainability;1_StaatVDS;Social
+;633;Transport poverty;Transport poverty;Quality of Life;Transport;Transport;Here and now;;;;;Equal opp;10_DBoom;Social
+92;634;Daily trips;daily trips;Quality of Life;Transport;Transport;Here and now;;System Condition;Units;City;Sustainability;1_StaatVDS;Social
+;635;Satisfaction road safety;Satisfaction road safety;Quality of Life;Transport;Subjective-Mobility;Here and now;;;;;Growth;9_SDGs;Social
+;636;Transport poverty;Transport poverty;Quality of Life;Transport;Transport;Here and now;;;;;Equal opp;9_SDGs;Social
+50;637;Car ownership;Mobility - car ownership;Quality of Life;Transport;Transport;Here and now;;System Condition;Units;Neighborhood;Growth;1_StaatVDS;Social
+179;638;Compensation for additional public transport;;Quality of Life;Transport;Transport;Here and now;;System Condition;Households;;Equal opp;1_StaatVDS;Social
+95;639;Use commercial shared cars;Use commercial shared cars;Quality of Life;Transport;Transport;Here and now;;;;City;Sustainability;1_StaatVDS;Social
+;640;Hospitalization motor vehicle traffic accident;Hospitalization after motor vehicle traffic accident;Quality of Life;Transport;Transport;Here and now;;;;;Safety;11_BBV;Social
+97;641;Bicycle use;Bicycle use;Quality of Life;Transport;Transport;Here and now;;Value Creation ;Units;City;Sustainability;1_StaatVDS;Social
+16;642;Shared cars NL;Shared cars in the Netherlands;Quality of Life;Transport;Transport;Here and now;;;Population;City;Sustainability;7_Klimaat;Social
+45;643;Passengers Schiphol;Number passengers at Schiphol;Quality of Life;Transport;Transport;Here and now;;Resource Flow;Population;City;Growth;5_EVMRA;Social
+;644;Satisfaction bicycle use;Satisfaction bicycle use;Quality of Life;Transport;Subjective-Mobility;Here and now;;;;;Freedom;10_DBoom;Social
+94;645;Number motorcycle;Registered mototcycle;Quality of Life;Transport;Transport;Here and now;;System Condition;Units;City;Sustainability;1_StaatVDS;Social
+;646;Satisfaction public transport;Satisfaction public transport;Quality of Life;Transport;Subjective-Mobility;Here and now;;;;;Growth;9_SDGs;Social
+13;647;Electric driving;Electric driving;Quality of Life;Transport;Transport;Here and now, Later, Elsewhere;;Value Creation ;Lenght;City;Sustainability;7_Klimaat;Social
+46;648;Flights per year;Total flights per year;Quality of Life;Transport;Transport;Here and now;;Resource Flow;Population;City;Growth;5_EVMRA;Social
+91;649;Transport modes;Modes of transport from, to and within Amsterdam;Quality of Life;Transport;Transport;Here and now;;System Condition;Units;City;Sustainability;1_StaatVDS;Social
+96;650;Rating public transport;Rating public transport;Quality of Life;Transport;Transport;Here and now;;System Condition;Index;City;Sustainability;1_StaatVDS;Social
+13;651;Loss time traffic jams;Loss of time due to traffic jams and delays;Quality of Life;Transport;Transport;Here and now;Project outcome;Adverse Outcome;Time;;Equal opp;6_RMBW;Social
+178;652;Free public transport;;Quality of Life;Transport;Transport;Here and now;;System Condition;Households;;Equal opp;1_StaatVDS;Social
+;653;Shared cars;Shared cars;Quality of Life;Transport;Transport;Here and now;;;;;Sustainability;9_SDGs;Social
+;654;Electric vehicles;Electric vehicles;Quality of Life;Transport;Transport;Here and now, Later;;;;;Sustainability;9_SDGs;Social
+;655;Electric vehicles;Electric vehicles;Quality of Life;Transport;Transport;Here and now, Later;;;;;Sustainability;10_DBoom;Social
+;656;Shared cars;Shared cars;Quality of Life;Transport;Transport;Here and now;;;;;Sustainability;10_DBoom;Social
+;657;Car ownership;Car ownership;Quality of Life;Transport;Transport;Here and now;;;;;Growth;10_DBoom;Social
+;658;Trips per mode;Trips per mode;Quality of Life;Transport;Transport;Here and now;;;;;Growth;10_DBoom;Social
+;659;Overweight;Overweight;Quality of Life;Health;Obesity;Here and now;;;;;Safety;10_DBoom;Social
+8;660;overweight;overweight;Quality of Life;Health;Obesity;Here and now;Tactical;Adverse Outcome;Population;;Safety;6_RMBW;Social
+118;661;Overweight;people with overweight;Quality of Life;Health;Obesity;Here and now;;Adverse Outcome;People;Neighborhood;Safety;1_StaatVDS;Social
+;662;Overweight;Overweight;Quality of Life;Health;Obesity;Here and now;;;;;Safety;9_SDGs;Social
+1;663;Overweight;Overweight;Quality of Life;Health;Obesity;Here and now;;Adverse Outcome;People;;Safety;4_Stadsdonut;Social
+20;664;Domestic Violence;Domestic Violence;Quality of Life;Safety;Crime;Here and now;;Adverse Outcome;People;;Safety;4_Stadsdonut;Social
+23;665;Feel unsafe neigh.;Often feel unsafe in the neighbourhood;Quality of Life;Safety;Crime;Here and now;Tactical;Adverse Outcome;Population;;Safety;6_RMBW;Social
+231;666;Suspects crime (residence);Suspects crime (residence);Quality of Life;Safety;Crime;Here and now;;System Condition;People;Neighborhood;Safety;1_StaatVDS;Social
+;667;No reported crimes;No reported crimes;Quality of Life;Safety;Crime;Here and now;;;;;Safety;10_DBoom;Social
+232;668;Young Halt referral;Young Halt referral;Quality of Life;Safety;Crime;Here and now;;System Condition;People;Neighborhood;Safety;1_StaatVDS;Social
+;669;Homicide;Homicide;Quality of Life;Safety;Crime;Here and now;;;;;Safety;9_SDGs;Social
+;670;Referrals Halt;Referrals Halt;Quality of Life;Safety;Suspects-prisioners;Here and now;;;;;Safety;11_BBV;Social
+24;671;Crime Victimhood;Crime Victimhood;Quality of Life;Safety;Crime;Here and now;Project outcome;Adverse Outcome;Population;;Safety;6_RMBW;Social
+19;672;Victim crime;Victim of crime;Quality of Life;Safety;Crime;Here and now;;Adverse Outcome;People;;Safety;4_Stadsdonut;Social
+;673;Youth with juvenile probation;Youth with juvenile probation;Quality of Life;Safety;Crime;;;;;;Safety;11_BBV;Social
+;674;Organized crime;Organized crime;Quality of Life;Safety;Crime;Here and now;;;;;Safety;9_SDGs;Social
+217;675;Street lit;Street lit;Quality of Life;Safety;Crime;Here and now;;System Condition;People;Neighborhood;Safety;1_StaatVDS;Social
+233;676;Domestic violence;Domestic violence;Quality of Life;Safety;Safety;Here and now;;System Condition;Units;City;Safety;1_StaatVDS;Social
+;677;Risk of flooding;Risk of flooding;Quality of Life;Safety;Natural hazards;Here and now, Later;;;;;Safety;9_SDGs;Social
+;678;No reported crimes;No reported crimes;Quality of Life;Safety;Crime;Here and now;;;;;Safety;9_SDGs;Social
+230;679;Suspects crime (commited);Suspects crime (commited);Quality of Life;Safety;Crime;Here and now;;System Condition;People;Neighborhood;Safety;1_StaatVDS;Social
+;680;Impairment physical integrity;Impairment physical integrity;Quality of Life;Safety;Crime;Here and now;;;;;Safety;9_SDGs;Social
+229;681;Crimes;Total crimes ;Quality of Life;Safety;Crime;Here and now;;System Condition;Units;Neighborhood;Safety;1_StaatVDS;Social
+15;682;Victimization of crime;Victimization of crime;Quality of Life;Safety;Crime;Here and now;;;;City;Safety;2_BWMRA;Social
+225;683;Insecurity perception;Insecurity perception;Quality of Life;Safety;Safety;Here and now;;System Condition;Index;Neighborhood;Safety;1_StaatVDS;Social
+;684;Shop lifting;Shop lifting;Quality of Life;Safety;Crime;Here and now;;;;;Safety;11_BBV;Social
+24;685;Feelings of unsafety;Feelings of unsafety;Quality of Life;Safety;Perceived safety;Here and now;;;;City;Safety;2_BWMRA;Social
+;686;Organized crime;Organized crime;Quality of Life;Safety;Crime;Here and now;;;;;Safety;10_DBoom;Social
+234;687;Digital security;Digital security;Quality of Life;Safety;Safety;Here and now;;System Condition;People;City;Safety;1_StaatVDS;Social
+;688;DestructionAndDamage ;Destruction and damage (in public areas);Quality of Life;Safety;Crime;Here and now;;;;;Safety;11_BBV;Social
+;689;Homicide;Homicide;Quality of Life;Safety;Crime;Here and now;;;;;Safety;10_DBoom;Social
+;690;Risk of flooding;Risk of flooding;Quality of Life;Safety;Natural hazards;Here and now, Later;;;;;Safety;10_DBoom;Social
+;691;Thefts from home;Thefts from home;Quality of Life;Safety;Crime;Here and now;;;;;Safety;11_BBV;Social
+;692;Juveniles with delinquency in court;Juveniles with delinquency in court;Quality of Life;Safety;Suspects-prisioners;;;;;;Safety;11_BBV;Social
+;693;Hard core youths;Hard core youths;Quality of Life;Safety;Suspects-prisioners;Here and now;;;;;Safety;11_BBV;Social
+;694;Impairment physical integrity;Impairment physical integrity;Quality of Life;Safety;Crime;Here and now;;;;;Safety;10_DBoom;Social
+224;695;Safety Index;Safety Index;Quality of Life;Safety;Safety;Here and now;;System Condition;Index;Neighborhood;Safety;1_StaatVDS;Social
+;696;Violent crime;Violent crime;Quality of Life;Safety;Crime;Here and now;;;;;Safety;11_BBV;Social
+;697;Satisfaction facilities;Satisfaction facilities;Quality of Life;Subjective Well-Being;Satisfaction built-enviroment;Here and now;;;;;Better admin;10_DBoom;Social
+;698;Satisfaction living environment;Satisfaction living environment;Quality of Life;Subjective Well-Being;Satisfaction built-enviroment;Here and now;;;;;Better admin;10_DBoom;Social
+;699;Feelings of unsafety;Feelings of unsafety;Quality of Life;Subjective Well-Being;Satisfaction built-enviroment;Here and now;;;;;Safety;9_SDGs;Social
+;700;Feelings of unsafety;Feelings of unsafety;Quality of Life;Subjective Well-Being;Satisfaction built-enviroment;Here and now;;;;;Safety;10_DBoom;Social
+;701;Satisfaction facilities;Satisfaction facilities;Quality of Life;Subjective Well-Being;Satisfaction built-enviroment;Here and now;;;;;Better admin;9_SDGs;Social
+37;702;Life satis-Ams. Admin.;Life satisfaction - The Amsterdam administration;Quality of Life;Subjective Well-Being;Life satisfaction;Here and now;;System Condition;Index;;Better admin;1_StaatVDS;Social
+227;703;City degradation;City degradation;Quality of Life;Subjective Well-Being;Satisfaction built-enviroment;Here and now;;System Condition;Index;Neighborhood;Safety;1_StaatVDS;Social
+3;704;Control own life;Experienced control over one's own life;Quality of Life;Subjective Well-Being;Life satisfaction;Here and now;Strategic;System Condition;Index;;Equal opp;6_RMBW;Social
+;705;Satisfaction living environment;Satisfaction living environment;Quality of Life;Subjective Well-Being;Satisfaction built-enviroment;Here and now;;;;;Better admin;9_SDGs;Social
+29;706;Life satis--Friends;Life satisfaction (Friends and Aquaitances);Quality of Life;Subjective Well-Being;Family/Friends;Here and now;;System Condition;Index;;Freedom;1_StaatVDS;Social
+213;707;Neigh. Satisfaction;Neighborhood satisfaction;Quality of Life;Subjective Well-Being;Life satisfaction;Here and now;;System Condition;Index;Neighborhood;Safety;1_StaatVDS;Social
+;708;Living situation index;Living situation index;Quality of Life;Subjective Well-Being;Life satisfaction;Here and now;;;;;Equal opp;10_DBoom;Social
+215;709;Experienced Neigh. Development;Experienced Neighborhood. Development;Quality of Life;Subjective Well-Being;Satisfaction built-enviroment;Here and now;;System Condition;People;Neighborhood;Safety;1_StaatVDS;Social
+34;710;Life satis-Ams. society;Life satisfaction - Amsterdam society;Quality of Life;Subjective Well-Being;Life satisfaction;Here and now;;System Condition;Index;;Equal opp;1_StaatVDS;Social
+28;711;Life satis--current life;Life satisfaction ( the life you are living right now);Quality of Life;Subjective Well-Being;Life satisfaction;Here and now;;System Condition;Index;;Equal opp;1_StaatVDS;Social
+21;712;Low income no control life;Low income - No self life control;Quality of Life;Subjective Well-Being;Life satisfaction;Here and now;;Adverse Outcome;People;;Equal opp;4_Stadsdonut;Social
+216;713;Satisfaction city maintenance;Satisfaction city maintenance;Quality of Life;Subjective Well-Being;Satisfaction built-enviroment;Here and now;;System Condition;Units;Neighborhood;Safety;1_StaatVDS;Social
+;714;Living situation index;Living situation index;Quality of Life;Subjective Well-Being;Life satisfaction;Here and now;;;;;Equal opp;9_SDGs;Social
+2;715;Well-being Index;Personal Well-being Index;Quality of Life;Subjective Well-Being;Life satisfaction;Here and now;Strategic;System Condition;Index;;Equal opp;6_RMBW;Social
+16;716;Control over own life;Control over own life;Quality of Life;Subjective Well-Being;Life satisfaction;Here and now;;;;City;Freedom;2_BWMRA;Social
+1;717;Satisfaction life;Satisfaction with life;Quality of Life;Subjective Well-Being;Life satisfaction;Here and now;Strategic;System Condition;Index;;Equal opp;6_RMBW;Social
+27;718;Happiness;Happiness;Quality of Life;Subjective Well-Being;Happiness;Here and now;;System Condition;Index;Neighborhood;Freedom;1_StaatVDS;Social
+218;719;Satisfaction neigh. Facilities;Satisfaction neigh. Facilities;Quality of Life;Subjective Well-Being;Satisfaction built-enviroment;Here and now;;System Condition;Index;Neighborhood;Safety;1_StaatVDS;Social
+9;720;Social connection;Social city conneciton;Quality of Life;Social Connections;Generalised trust;Here and now;;Value Creation ;People;;Together;4_Stadsdonut;Social
+123;721;WMO;People who use the facilities under Social Support Act (WMO);Quality of Life;Social Connections;Bridging social capital;Here and now;;System Condition;People;City;Together;1_StaatVDS;Social
+238;722;Hemp farms;Hemp farms;Quality of Life;Social Connections;Generalised trust;Here and now;;System Condition;Units;City;Safety;1_StaatVDS;Social
+;723;Satisfaction public services;Satisfaction public services;Quality of Life;Social Connections;Generalised trust;Here and now;;;;;Better admin;10_DBoom;Social
+;724;Satisfaction public services;Satisfaction public services;Quality of Life;Social Connections;Generalised trust;Here and now;;;;;Better admin;9_SDGs;Social
+;725;Concern about nature and climate;Concern about nature and climate;Quality of Life;Social Connections;Generalised trust;Here and Now, Elsewhere;;;;;Sustainability;10_DBoom;Social
+235;726;Unexplained house purchases;Unexplained house purchases;Quality of Life;Social Connections;Generalised trust;Here and now;;System Condition;Units;City;Safety;1_StaatVDS;Social
+237;727;Jewelers (undermining);Jewelers (undermining);Quality of Life;Social Connections;Generalised trust;Here and now;;System Condition;Units;City;Safety;1_StaatVDS;Social
+124;728;WLZ;People who use the facilities under Long-term Care Act (WLZ);Quality of Life;Social Connections;Bridging social capital;Here and now;;System Condition;People;City;Together;1_StaatVDS;Social
+10;729;Neigh.rating;Neighbourhood rating;Quality of Life;Social Connections;Generalised trust;Here and now;Tactical;System Condition;Index;Neighborhood;Equal opp;4_Stadsdonut;Social
+236;730;Taxi companies (undermining);Taxi companies (undermining);Quality of Life;Social Connections;Generalised trust;Here and now;;System Condition;Units;City;Safety;1_StaatVDS;Social
+;731;Concern about nature and climate;Concern about nature and climate;Quality of Life;Social Connections;Generalised trust;Here and Now, Elsewhere;;;;;Sustainability;9_SDGs;Social
+33;732;Life satis-Dutch society;Life satisfaction - Dutch society;Quality of Life;Social Connections;Life satisfaction;Here and now;;System Condition;Index;;Equal opp;1_StaatVDS;Social
+5;733;Tap water quality;Tap water quality;Quality of Life;Water;Water quality;Here and now;;System Condition;Amount substance;;Safety;4_Stadsdonut;Environmental
+208;734;Interest in politics;Interest in politics;Social Capital;Institutional;Trust in institutions;Here and now;;System Condition;People;City;Better admin;1_StaatVDS;Social
+154;735;HBO-WO institutions;HBO-WO institutions;Social Capital;Institutional;Distribution-Institutions;Here and now;;System Condition;Building Units;City;Equal opp;1_StaatVDS;Social
+22;736;Turnout  municipal;Turnout  municipal elections;Social Capital;Institutional;Voter turnout;Here and now;;Value Creation ;People;;Together;4_Stadsdonut;Social
+78;737;Trust rule law;Trust in the rule of law;Social Capital;Institutional;Trust in institutions;Here and now, Later;;Value Creation ;Index;;Better admin;6_RMBW;Social
+;738;Discrimination;Discrimination;Social Capital;Institutional;Social justice;Here and now;;;;;Equal opp;10_DBoom;Social
+;739;Discrimination;Discrimination;Social Capital;Institutional;Social justice;Here and now;;;;;Equal opp;9_SDGs;Social
+90;740;Cooperation agreements;Cooperation agreements;Social Capital;Institutional;Partnerships;Here and now;;;;City;Growth;8_Duurzame;Social
+18;741;Participation-accountability;Participation and accountability;Social Capital;Institutional;Trust in institutions;Here and now;Strategic;Value Creation ;Index;National;Better admin;6_RMBW;Social
+210;742;Trust institutions;Trust in institutions;Social Capital;Institutional;Trust in institutions;Here and now;;System Condition;People;City;Better admin;1_StaatVDS;Social
+21;743;Development norms-values;Development of norms and values;Social Capital;Institutional;Global social capital;Here and now;Strategic;Value Creation ;Index;;Together;6_RMBW;Social
+92;744;Stage Social returns;Stages in the fulfilment of social return obligations;Social Capital;Institutional;Global social capital;Here and now;;;;City;Growth;8_Duurzame;Social
+13;745;Turnout in elections;Turnout in elections;Social Capital;Institutional;Voter turnout;Here and now;;;;City;Together;2_BWMRA;Social
+91;746;Social returns;Extent of social return obligations;Social Capital;Institutional;Global social capital;Here and now;;;;City;Growth;8_Duurzame;Social
+77;747;Governance effective;Effectiveness of government governance;Social Capital;Institutional;Global social capital;Here and now, Later;;Value Creation ;Index;;Better admin;6_RMBW;Social
+;748;Discrimination incidents;Discrimination incidents;Social Capital;Institutional;Social justice;Here and now;;;;;Freedom;9_SDGs;Social
+207;749;Voting CE-HR-PE;Valid votes in the provincial Council elections and house of representatives, parliamentary elections;Social Capital;Institutional;Voter turnout;Here and now;;Value Creation ;People;Neighborhood;Better admin;1_StaatVDS;Social
+;750;Experienced discrimination;Experienced discrimination;Social Capital;Institutional;Social justice;Here and now;;;;;Freedom;10_DBoom;Social
+209;751;Voting intention;Voting intention;Social Capital;Institutional;Voter turnout;Here and now;;System Condition;People;City;Better admin;1_StaatVDS;Social
+;752;Discrimination incidents;Discrimination incidents;Social Capital;Institutional;Social justice;Here and now;;;;;Freedom;10_DBoom;Social
+38;753;Life satis-government;Life satisfaction - The government;Social Capital;Institutional;Trust in institutions;Here and now;;System Condition;Index;;Better admin;1_StaatVDS;Social
+;754;Experienced discrimination;Experienced discrimination;Social Capital;Institutional;Social justice;Here and now;;;;;Freedom;9_SDGs;Social
+23;755;Turnout parliamentary;Turnout  parliamentary;Social Capital;Institutional;Voter turnout;Here and now;;Value Creation ;People;;Together;4_Stadsdonut;Social
+1;756;Population growth;Population growth across time;Social Capital;Demography ;Demographics;Here and now;;System Condition;People;Neighborhood;Growth;1_StaatVDS;Social
+2;757;Migration cause;Migration cause (background) ;Social Capital;Demography ;Demographics;Here and now;;System Condition;People;Neighborhood;Equal opp;1_StaatVDS;Social
+3;758;Mortality;Mortality;Social Capital;Demography ;Demographics;Here and now;;System Condition;People;Neighborhood;Growth;1_StaatVDS;Social
+4;759;Migration background;Migration background;Social Capital;Demography ;Demographics;Here and now;;System Condition;People;Neighborhood;Equal opp;1_StaatVDS;Social
+5;760;Population age;Population age;Social Capital;Demography ;Demographics;Here and now;;System Condition;People;Neighborhood;Growth;1_StaatVDS;Social
+6;761;Migration;Migration (internal/abroad);Social Capital;Demography ;Demographics;Here and now;;System Condition;People;Neighborhood;Growth;1_StaatVDS;Social
+7;762;Level education;Level of education;Social Capital;Demography ;Demographics;Here and now;;System Condition;People;Neighborhood;Equal opp;1_StaatVDS;Social
+8;763;Sex;Sex;Social Capital;Demography ;Demographics;Here and now;;System Condition;People;Neighborhood;Equal opp;1_StaatVDS;Social
+;764;Heat stress elderly;Heat stress elderly;Social Capital;Demography ;Demographics;Here and Now, Elsewhere;;;;;Safety;10_DBoom;Social
+18;765;Birth;Birth;Social Capital;Demography ;Demographics;Here and now;;System Condition;Population;Neighborhood;Growth;5_EVMRA;Social
+19;766;Mortality;Mortality;Social Capital;Demography ;Demographics;Here and now;;System Condition;Population;Neighborhood;Growth;5_EVMRA;Social
+9;767;Population;Population;Social Capital;Demography ;Demographics;Here and now;;System Condition;Population;Neighborhood;Growth;5_EVMRA;Social
+21;768;Immigration;Immigration;Social Capital;Demography ;Demographics;Here and now;;System Condition;Population;Neighborhood;Growth;5_EVMRA;Social
+22;769;Emigration;Emigration;Social Capital;Demography ;Demographics;Here and now;;System Condition;Population;Neighborhood;Growth;5_EVMRA;Social
+;770;Heat stress elderly;Heat stress elderly;Social Capital;Demography ;Demographics;Here and Now, Elsewhere;;;;;Safety;9_SDGs;Social
+30;771;Volunteer work;Volunteer work;Social Capital;Demography ;Other assets;Here and now;;;;City;Together;2_BWMRA;Social
+25;772;Domestic emigration;Domestic emigration;Social Capital;Demography ;Demographics;Here and now;;System Condition;Population;Neighborhood;Growth;5_EVMRA;Social
+26;773;Domestic migration;Domestic migration balance;Social Capital;Demography ;Demographics;Here and now;;System Condition;Population;Neighborhood;Growth;5_EVMRA;Social
+;774;Demographic pressure;Demographic pressure;Social Capital;Demography ;Demographics;;;;;;Growth;11_BBV;Social
+23;775;Foreign migration;Foreign migration balance;Social Capital;Demography ;Demographics;Here and now;;System Condition;Population;Neighborhood;Growth;5_EVMRA;Social
+14;776;Dependent pop.;Dependent population;Social Capital;Demography ;People;Here and now;;System Condition;Population;Neighborhood;Equal opp;5_EVMRA;Social
+;777;Foreign migrants;Foreign migrants;Social Capital;Demography ;Demographics;Here and Now, Elsewhere;;;;;Freedom;9_SDGs;Social
+24;778;Domestic Immigration;Domestic Immigration;Social Capital;Demography ;Demographics;Here and now;;System Condition;Population;Neighborhood;Growth;5_EVMRA;Social
+;779;Foreign migrants;Foreign migrants;Social Capital;Demography ;Demographics;Here and Now, Elsewhere;;;;;Freedom;10_DBoom;Social
+32;780;Life satis-social position;Life satisfaction - Your social position;Social Capital;Social Connections;Bridging social capital;Here and now;;System Condition;Index;;Equal opp;1_StaatVDS;Social
+8;781;Loneliness;Experienced loneliness;Social Capital;Social Connections;Family/Friends;Here and now;;Adverse Outcome;People;;Together;4_Stadsdonut;Social
+187;782;Diversity social contact;Diversity in social contact with diverse pop groups;Social Capital;Social Connections;Bridging social capital;Here and now;;System Condition;People;City;Together;1_StaatVDS;Social
+212;783;Neigh. Commitment;Neighborhood commitment;Social Capital;Social Connections;Bridging social capital;Here and now;;Value Creation ;People;Neighborhood;Together;1_StaatVDS;Social
+211;784;Trust politics;Trust in institutions;Social Capital;Social Connections;Politics;Here and now;;System Condition;People;City;Better admin;1_StaatVDS;Social
+186;785;Religion involvement;Religion involvement;Social Capital;Social Connections;Religion;Here and now;;System Condition;People;City;Together;1_StaatVDS;Social
+188;786;Discrimination;Discrimination feeling;Social Capital;Social Connections;Bridging social capital;Here and now;;Adverse Outcome;People;City;Freedom;1_StaatVDS;Social
+17;787;Contact close people;Contact with family, friends or neighbors;Social Capital;Social Connections;Family/Friends;Here and now;Strategic;System Condition;Population;;Together;6_RMBW;Social
+181;788;Satisfaction social;Satisfaction with friendship and social contacts;Social Capital;Social Connections;Family/Friends;Here and now;;System Condition;People;City;Together;1_StaatVDS;Social
+122;789;Informal help;people who received access to informal help by immediate environment;Social Capital;Social Connections;Family/Friends;Here and now;;System Condition;People;City;Together;1_StaatVDS;Social
+182;790;Contact with people (digital);Digital contact with family, friends, neighbors, and other local residents;Social Capital;Social Connections;Family/Friends;Here and now;;System Condition;People;City;Together;1_StaatVDS;Social
+180;791;Contact with people; Contact with family, friends, neighbors, and other local residents;Social Capital;Social Connections;Family/Friends;Here and now;;System Condition;People;City;Together;1_StaatVDS;Social
+24;792;Experienced racism;Residents experiencing racism;Social Capital;Social Connections;Bridging social capital;Here and now;;Adverse Outcome;People;;Freedom;4_Stadsdonut;Social
+223;793;Social cohesion;Social cohesion;Social Capital;Social Connections;Bridging social capital;Here and now;;System Condition;Index;Neighborhood;Together;1_StaatVDS;Social
+52;794;Volunteering;Social participation - Volunteering;Social Capital;Social Connections;Voluntary work;Here and now;;Value Creation ;Units;Neighborhood;Together;1_StaatVDS;Social
+184;795;Informal care;people who received access to informal help by immediate environment;Social Capital;Social Connections;Family/Friends;Here and now;;System Condition;People;City;Together;1_StaatVDS;Social
+183;796;Social Isolation Index;Social Isolation Index;Social Capital;Social Connections;Family/Friends;Here and now;;System Condition;People;City;Together;1_StaatVDS;Social
+19;797;Trust institutions;Trust in institutions;Social Capital;Social Connections;Generalised trust;Here and now, Later;Strategic;Value Creation ;Index;;Better admin;6_RMBW;Social
+22;798;Volunteer work;Volunteer work;Social Capital;Social Connections;Voluntary work;Here and now;Project outcome;Value Creation ;Population;;Together;6_RMBW;Social
+25;799;Discrimination ethnicity;Discrimination based on ethnicity or skin colour;Social Capital;Social Connections;Bridging social capital;Here and now;;Adverse Outcome;People;;Freedom;4_Stadsdonut;Social
+61;800;TOZO;Use TOZO financial benefit during corona;Social Capital;Social Connections;Bridging social capital;Here and now;;System Condition;Monetary;City;Equal opp;1_StaatVDS;Social
+53;801;Social isolation;Social participation - Social isolation;Social Capital;Social Connections;Bridging social capital;Here and now;;Value Creation ;Index;Neighborhood;Together;1_StaatVDS;Social
+23;802;Loneliness;Loneliness;Social Capital;Social Connections;Family/Friends;Here and now;;;;City;Together;2_BWMRA;Social
+221;803;Confidence neighbours;Confidence neighbours;Social Capital;Social Connections;Bridging social capital;Here and now;;System Condition;People;Neighborhood;Together;1_StaatVDS;Social
+222;804;Commitment with neigh. (city);Commitment with neighbourhood or city;Social Capital;Social Connections;Bridging social capital;Here and now;;System Condition;People;Neighborhood;Together;1_StaatVDS;Social
+26;805;Discriminationality;Discrimination on the basis of nationality;Social Capital;Social Connections;Bridging social capital;Here and now;;Adverse Outcome;People;;Freedom;4_Stadsdonut;Social
+219;806;Contact neighbours;Contact neighbours;Social Capital;Social Connections;Bridging social capital;Here and now;;System Condition;People;Neighborhood;Together;1_StaatVDS;Social
+202;807;Help-Internet;Ask for help with internet matters;Social Capital;Social Connections;Bridging social capital;Here and now;;System Condition;People;Neighborhood;Together;1_StaatVDS;Social
+220;808;Interaction neigh. Cultural;Interaction between neighbours with different ethnic or cultural backgroud;Social Capital;Social Connections;Bridging social capital;Here and now;;System Condition;People;Neighborhood;Together;1_StaatVDS;Social
+44;809;Feel discrimination;Feelings of discrimination;Social Capital;Social Connections;Bridging social capital;Here and now;;Adverse Outcome;Population;;Freedom;6_RMBW;Social
+20;810;Trust people;Trust in people;Social Capital;Social Connections;Family/Friends;Here and now, Later;Strategic;Value Creation ;Index;;Together;6_RMBW;Social
